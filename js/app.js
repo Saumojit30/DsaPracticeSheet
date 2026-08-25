@@ -376,11 +376,16 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (window.feather) feather.replace();
   }
 
-  // Reset all
+  // Protected Reset all with typed confirmation
   btnResetAll.addEventListener('click', async () => {
-    if (confirm('Are you sure you want to reset all solved problems and progress? This cannot be undone.')) {
+    const confirmation = prompt('⚠️ WARNING: This will permanently delete all your solved problems, revision stars, and notes on this browser.\n\nType RESET in the box below to confirm:');
+    if (confirmation && confirmation.trim().toUpperCase() === 'RESET') {
       await storage.resetAll();
+      exportModal.classList.remove('open');
       await renderApp();
+      alert('All progress has been reset.');
+    } else if (confirmation !== null) {
+      alert('Reset cancelled. You must type "RESET" to confirm.');
     }
   });
 

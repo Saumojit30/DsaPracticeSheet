@@ -24,11 +24,8 @@
         <button id="themeToggle" class="btn-icon" title="Toggle Light/Dark Theme" aria-label="Toggle Theme">
           <i data-feather="moon"></i>
         </button>
-        <button id="btnOpenExport" class="btn-icon" title="Backup & Restore Progress" aria-label="Backup Progress">
-          <i data-feather="download"></i>
-        </button>
-        <button id="btnResetAll" class="btn-icon" title="Reset Progress" aria-label="Reset Progress">
-          <i data-feather="trash-2"></i>
+        <button id="btnOpenExport" class="btn-icon" title="Settings, Backup & Restore" aria-label="Backup & Settings">
+          <i data-feather="settings"></i>
         </button>
       </div>
     </div>
@@ -176,28 +173,47 @@
     </div>
   </div>
 
-  <!-- Backup / Restore Modal -->
+  <!-- Settings, Backup & Restore Modal -->
   <div id="exportModal" class="modal-overlay">
     <div class="modal-card">
       <div class="modal-header">
-        <h3 class="modal-title">Backup & Restore Progress</h3>
+        <h3 class="modal-title">Settings & Data Management</h3>
         <button class="modal-close" id="btnCloseExportModal">&times;</button>
       </div>
       <div class="modal-body">
-        <p style="font-size: 0.85rem; color: var(--text-secondary);">
-          Export your solved problems and notes as a JSON file, or paste your saved data below to sync across browsers/devices.
-        </p>
-        <div style="display: flex; gap: 0.5rem;">
-          <button class="btn btn-primary" id="btnDownloadJson">Download Backup (.json)</button>
-          <button class="btn btn-secondary" id="btnCopyJson">Copy to Clipboard</button>
+        <div>
+          <h4 style="font-size: 0.95rem; margin-bottom: 0.35rem; color: var(--text-primary);">📥 Backup & Sync</h4>
+          <p style="font-size: 0.82rem; color: var(--text-secondary); margin-bottom: 0.75rem;">
+            Export your solved problems and personal notes as a JSON file, or paste your backup data below to sync across devices.
+          </p>
+          <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+            <button class="btn btn-primary" id="btnDownloadJson">Download Backup (.json)</button>
+            <button class="btn btn-secondary" id="btnCopyJson">Copy to Clipboard</button>
+          </div>
         </div>
+
         <div>
           <label class="input-label" for="textareaJsonBackup">Raw Data (JSON):</label>
-          <textarea id="textareaJsonBackup" class="modal-textarea" style="font-family: monospace; font-size: 0.75rem;"></textarea>
+          <textarea id="textareaJsonBackup" class="modal-textarea" style="font-family: monospace; font-size: 0.75rem;" placeholder="Paste your backup JSON here to restore..."></textarea>
+          <div style="margin-top: 0.5rem;">
+            <button class="btn btn-secondary" id="btnRestoreJson">Import / Restore Data</button>
+          </div>
         </div>
-      </div>
-      <div class="modal-footer">
-        <button class="btn btn-secondary" id="btnRestoreJson">Import / Restore Data</button>
+
+        <hr style="border: none; border-top: 1px solid var(--border-color); margin: 0.5rem 0;" />
+
+        <!-- Relocated & Protected Danger Zone -->
+        <div style="background: rgba(239, 68, 68, 0.08); border: 1px solid rgba(239, 68, 68, 0.25); border-radius: var(--radius-md); padding: 0.85rem;">
+          <h4 style="font-size: 0.85rem; color: var(--hard-color); margin-bottom: 0.35rem; display: flex; align-items: center; gap: 0.35rem;">
+            ⚠️ Danger Zone
+          </h4>
+          <p style="font-size: 0.78rem; color: var(--text-secondary); margin-bottom: 0.6rem;">
+            Permanently clear all completed problems, notes, and streak data on this browser.
+          </p>
+          <button class="btn btn-danger" id="btnResetAll" style="font-size: 0.8rem; padding: 0.4rem 0.8rem;">
+            Reset All Progress...
+          </button>
+        </div>
       </div>
     </div>
   </div>
