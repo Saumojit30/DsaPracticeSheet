@@ -1,0 +1,20 @@
+{
+  "name": "dsa-bootcamp-tracker",
+  "version": "1.0.0",
+  "description": "Kunal Kushwaha DSA Bootcamp Assignment Tracker (Web App & Chrome Extension)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "sync": "node scripts/fetch_assignments.js"
+  },
+  "keywords": [
+    "dsa",
+    "kunal-kushwaha",
+    "bootcamp",
+    "leetcode",
+    "tracker",
+    "chrome-extension"
+  ],
+  "author": "",
+  "license": "MIT"
+}
