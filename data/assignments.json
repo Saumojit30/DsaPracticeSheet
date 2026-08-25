@@ -1,0 +1,4460 @@
+[
+  {
+    "id": "01-flow-of-program",
+    "title": "Flow Of Program",
+    "filename": "01-flow-of-program.md",
+    "videoLink": "https://youtu.be/lhELGQAV4gg",
+    "totalProblems": 5,
+    "problems": [
+      {
+        "id": "01-flow-of-program-q1",
+        "title": "Input a year and find whether it is a leap year or not.",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "01-flow-of-program-q2",
+        "title": "Take two numbers and print the sum of both.",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "01-flow-of-program-q3",
+        "title": "Take a number as input and print the multiplication table for it.",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "01-flow-of-program-q4",
+        "title": "Take 2 numbers as inputs and find their HCF and LCM.",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "01-flow-of-program-q5",
+        "title": "Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "id": "02-first-java",
+    "title": "First Java",
+    "filename": "02-first-java.md",
+    "videoLink": "https://youtu.be/TAtrPoaJ7gc",
+    "totalProblems": 9,
+    "problems": [
+      {
+        "id": "02-first-java-q1",
+        "title": "Write a program to print whether a number is even or odd, also take",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "02-first-java-q2",
+        "title": "Take name as input and print a greeting message for that particular name.",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "02-first-java-q3",
+        "title": "Write a program to input principal, time, and rate (P, T, R) from the user and",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "02-first-java-q4",
+        "title": "Take in two numbers and an operator (+, -, *, /) and calculate the value.",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "02-first-java-q5",
+        "title": "Take 2 numbers as input and print the largest number.",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "02-first-java-q6",
+        "title": "Input currency in rupees and output in USD.",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "02-first-java-q7",
+        "title": "To calculate Fibonacci Series up to n numbers.",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "02-first-java-q8",
+        "title": "To find out whether the given String is Palindrome or not.",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "02-first-java-q9",
+        "title": "To find Armstrong Number between two given number.",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "id": "03-conditionals-loops",
+    "title": "Conditionals Loops",
+    "filename": "03-conditionals-loops.md",
+    "videoLink": "https://youtu.be/ldYLYRNaucM",
+    "totalProblems": 52,
+    "problems": [
+      {
+        "id": "03-conditionals-loops-q1",
+        "title": "Area Of Circle Java Program",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q2",
+        "title": "Area Of Triangle",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q3",
+        "title": "Area Of Rectangle Program",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q4",
+        "title": "Area Of Isosceles Triangle",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q5",
+        "title": "Area Of Parallelogram",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q6",
+        "title": "Area Of Rhombus",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q7",
+        "title": "Area Of Equilateral Triangle",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q8",
+        "title": "Perimeter Of Circle",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q9",
+        "title": "Perimeter Of Equilateral Triangle",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q10",
+        "title": "Perimeter Of Parallelogram",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q11",
+        "title": "Perimeter Of Rectangle",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q12",
+        "title": "Perimeter Of Square",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q13",
+        "title": "Perimeter Of Rhombus",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q14",
+        "title": "Volume Of Cone Java Program",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q15",
+        "title": "Volume Of Prism",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q16",
+        "title": "Volume Of Cylinder",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q17",
+        "title": "Volume Of Sphere",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q18",
+        "title": "Volume Of Pyramid",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q19",
+        "title": "Curved Surface Area Of Cylinder",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q20",
+        "title": "Total Surface Area Of Cube",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q21",
+        "title": "Fibonacci Series In Java Programs",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q22",
+        "title": "Subtract the Product and Sum of Digits of an Integer",
+        "url": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q23",
+        "title": "Input a number and print all the factors of that number (use loops).",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q24",
+        "title": "Take integer inputs till the user enters 0 and print the sum of all numbers",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q25",
+        "title": "Take integer inputs till the user enters 0 and print the largest number from",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q26",
+        "title": "Addition Of Two Numbers",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "03-conditionals-loops-q27",
+        "title": "Factorial Program In Java",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q28",
+        "title": "Calculate Electricity Bill",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q29",
+        "title": "Calculate Average Of N Numbers",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q30",
+        "title": "Calculate Discount Of Product",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q31",
+        "title": "Calculate Distance Between Two Points",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q32",
+        "title": "Calculate Commission Percentage",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q33",
+        "title": "Power In Java",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q34",
+        "title": "Calculate Depreciation of Value",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q35",
+        "title": "Calculate Batting Average",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q36",
+        "title": "Calculate CGPA Java Program",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q37",
+        "title": "Compound Interest Java Program",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q38",
+        "title": "Calculate Average Marks",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q39",
+        "title": "Sum Of N Numbers",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q40",
+        "title": "Armstrong Number In Java",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q41",
+        "title": "Find Ncr & Npr",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q42",
+        "title": "Reverse A String In Java",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q43",
+        "title": "Find if a number is palindrome or not",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q44",
+        "title": "Future Investment Value",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q45",
+        "title": "HCF Of Two Numbers Program",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q46",
+        "title": "LCM Of Two Numbers",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q47",
+        "title": "Java Program Vowel Or Consonant",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q48",
+        "title": "Perfect Number In Java",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q49",
+        "title": "Check Leap Year Or Not",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q50",
+        "title": "Sum Of A Digits Of Number",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q51",
+        "title": "Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "03-conditionals-loops-q52",
+        "title": "Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "id": "04-functions",
+    "title": "Functions",
+    "filename": "04-functions.md",
+    "videoLink": "https://youtu.be/vvanI8NRlSI",
+    "totalProblems": 14,
+    "problems": [
+      {
+        "id": "04-functions-q1",
+        "title": "Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.",
+        "url": "https://www.java67.com/2019/05/how-to-find-largest-and-smallest-of-three-numbers-in-java.html",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "04-functions-q2",
+        "title": "Define a program to find out whether a given number is even or odd.",
+        "url": "https://www.geeksforgeeks.org/java-program-to-check-if-a-given-integer-is-odd-or-even/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "04-functions-q3",
+        "title": "A person is eligible to vote if his/her age is greater than or equal to 18. Define a method to find out if he/she is eligible to vote.",
+        "url": "https://www.efaculty.in/java-programs/voting-age-program-in-java/",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "04-functions-q4",
+        "title": "Write a program to print the sum of two numbers entered by user by defining your own method.",
+        "url": "https://code4coding.com/addition-of-two-numbers-in-java-using-method/",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "04-functions-q5",
+        "title": "Define a method that returns the product of two numbers entered by user.",
+        "url": "https://code4coding.com/java-program-to-multiply-two-numbers-using-method/",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "04-functions-q6",
+        "title": "Write a program to print the circumference and area of a circle of radius entered by user by defining your own method.",
+        "url": "https://beginnersbook.com/2014/01/java-program-to-calculate-area-and-circumference-of-circle/",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "04-functions-q7",
+        "title": "Define a method to find out if a number is prime or not.",
+        "url": "https://www.geeksforgeeks.org/java-program-to-check-if-a-number-is-prime-or-not/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "04-functions-q8",
+        "title": "Write a program that will ask the user to enter his/her marks (out of 100). Define a method that will display grades according to the marks entered as below: <br/>",
+        "url": "https://www.techcrashcourse.com/2017/02/java-program-to-calculate-grade-of-students.html",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "04-functions-q9",
+        "title": "Write a program to print the factorial of a number by defining a method named 'Factorial'.",
+        "url": "https://www.javatpoint.com/factorial-program-in-java",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "04-functions-q10",
+        "title": "Write a function to find if a number is a palindrome or not. Take number as parameter.",
+        "url": "https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "04-functions-q11",
+        "title": "Convert the programs in [flow of program](01-flow-of-program.md), [first java](02-first-java.md), [conditionals & loops](03-conditionals-loops.md) assignments into functions.",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "04-functions-q12",
+        "title": "Write a function to check if a given triplet is a Pythagorean triplet or not. (A Pythagorean triplet is when the sum of the square of two numbers is equal to the square of the third number).",
+        "url": "https://www.geeksforgeeks.org/find-pythagorean-triplet-in-an-unsorted-array/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "04-functions-q13",
+        "title": "Write a function that returns all prime numbers between two given numbers.",
+        "url": "https://www.geeksforgeeks.org/program-to-find-prime-numbers-between-given-interval/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "04-functions-q14",
+        "title": "Write a function that returns the sum of first n natural numbers.",
+        "url": "https://www.geeksforgeeks.org/program-find-sum-first-n-natural-numbers/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "id": "05-arrays",
+    "title": "Arrays",
+    "filename": "05-arrays.md",
+    "videoLink": "https://youtu.be/n60Dn0UsbEk",
+    "totalProblems": 41,
+    "problems": [
+      {
+        "id": "05-arrays-q1",
+        "title": "Build Array from Permutation",
+        "url": "https://leetcode.com/problems/build-array-from-permutation/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q2",
+        "title": "Concatenation of Array",
+        "url": "https://leetcode.com/problems/concatenation-of-array/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q3",
+        "title": "Running Sum of 1d Array",
+        "url": "https://leetcode.com/problems/running-sum-of-1d-array/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q4",
+        "title": "Richest Customer Wealth",
+        "url": "https://leetcode.com/problems/richest-customer-wealth/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q5",
+        "title": "Shuffle the Array",
+        "url": "https://leetcode.com/problems/shuffle-the-array/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q6",
+        "title": "Kids With the Greatest Number of Candies",
+        "url": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q7",
+        "title": "Number of Good Pairs",
+        "url": "https://leetcode.com/problems/number-of-good-pairs/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q8",
+        "title": "How Many Numbers Are Smaller Than the Current Number",
+        "url": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q9",
+        "title": "Create Target Array in the Given Order",
+        "url": "https://leetcode.com/problems/create-target-array-in-the-given-order/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q10",
+        "title": "Check if the Sentence Is Pangram",
+        "url": "https://leetcode.com/problems/check-if-the-sentence-is-pangram/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q11",
+        "title": "Count Items Matching a Rule",
+        "url": "https://leetcode.com/problems/count-items-matching-a-rule/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q12",
+        "title": "Find the Highest Altitude",
+        "url": "https://leetcode.com/problems/find-the-highest-altitude/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q13",
+        "title": "Flipping an Image",
+        "url": "https://leetcode.com/problems/flipping-an-image/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q14",
+        "title": "Cells with Odd Values in a Matrix",
+        "url": "https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q15",
+        "title": "Matrix Diagonal Sum",
+        "url": "https://leetcode.com/problems/matrix-diagonal-sum/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q16",
+        "title": "Find Numbers with Even Number of Digits",
+        "url": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q17",
+        "title": "Transpose Matrix",
+        "url": "https://leetcode.com/problems/transpose-matrix/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q18",
+        "title": "Add to Array-Form of Integer",
+        "url": "https://leetcode.com/problems/add-to-array-form-of-integer/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q19",
+        "title": "Maximum Population Year",
+        "url": "https://leetcode.com/problems/maximum-population-year/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q20",
+        "title": "Determine Whether Matrix Can Be Obtained By Rotation",
+        "url": "https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q21",
+        "title": "Two Sum",
+        "url": "https://leetcode.com/problems/two-sum/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q22",
+        "title": "Find N Unique Integers Sum up to Zero",
+        "url": "https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q23",
+        "title": "Lucky Number In a Matrix",
+        "url": "https://leetcode.com/problems/lucky-numbers-in-a-matrix/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q24",
+        "title": "Maximum Subarray",
+        "url": "https://leetcode.com/problems/maximum-subarray/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q25",
+        "title": "Reshape the Matrix",
+        "url": "https://leetcode.com/problems/reshape-the-matrix/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q26",
+        "title": "Plus One",
+        "url": "https://leetcode.com/problems/plus-one/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q27",
+        "title": "Remove Duplicates from Sorted Array",
+        "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q28",
+        "title": "Minimum Cost to Move Chips to The Same Position",
+        "url": "https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "05-arrays-q29",
+        "title": "Spiral Matrix",
+        "url": "https://leetcode.com/problems/spiral-matrix/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "05-arrays-q30",
+        "title": "Spiral Matrix II",
+        "url": "https://leetcode.com/problems/spiral-matrix-ii/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "05-arrays-q31",
+        "title": "Spiral Matrix III",
+        "url": "https://leetcode.com/problems/spiral-matrix-iii/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "05-arrays-q32",
+        "title": "Set Matrix Zeroes",
+        "url": "https://leetcode.com/problems/set-matrix-zeroes/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "05-arrays-q33",
+        "title": "Product of Array Except Self",
+        "url": "https://leetcode.com/problems/product-of-array-except-self/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "05-arrays-q34",
+        "title": "Find First and Last Position of Element in Sorted Array",
+        "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "05-arrays-q35",
+        "title": "Jump Game",
+        "url": "https://leetcode.com/problems/jump-game/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "05-arrays-q36",
+        "title": "Rotate Array",
+        "url": "https://leetcode.com/problems/rotate-array/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "05-arrays-q37",
+        "title": "Sort Colors",
+        "url": "https://leetcode.com/problems/sort-colors/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "05-arrays-q38",
+        "title": "House Robber",
+        "url": "https://leetcode.com/problems/house-robber/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "05-arrays-q39",
+        "title": "Max Value of Equation",
+        "url": "https://leetcode.com/problems/max-value-of-equation/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "05-arrays-q40",
+        "title": "First Missing Positive",
+        "url": "https://leetcode.com/problems/first-missing-positive/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "05-arrays-q41",
+        "title": "Good Array",
+        "url": "https://leetcode.com/problems/check-if-it-is-a-good-array/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "id": "06-searching",
+    "title": "Searching",
+    "filename": "06-searching.md",
+    "videoLink": "https://youtu.be/_HRA37X8N_Q",
+    "totalProblems": 46,
+    "problems": [
+      {
+        "id": "06-searching-q1",
+        "title": "Linear Search",
+        "url": "https://youtu.be/_HRA37X8N_Q",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "06-searching-q2",
+        "title": "Binary Search",
+        "url": "https://youtu.be/f6UU7V3szVw",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "06-searching-q3",
+        "title": "Binary Search Questions",
+        "url": "https://youtu.be/W9QJ8HaRvJQ",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "06-searching-q4",
+        "title": "Binary Search in 2D Arrays",
+        "url": "https://youtu.be/enI_KyGLYPo",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "06-searching-q5",
+        "title": "Square Root",
+        "url": "https://leetcode.com/problems/sqrtx/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "06-searching-q6",
+        "title": "Guess Number Higher or Lower",
+        "url": "https://leetcode.com/problems/guess-number-higher-or-lower/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "06-searching-q7",
+        "title": "First Bad Version",
+        "url": "https://leetcode.com/problems/first-bad-version/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "06-searching-q8",
+        "title": "Two Sum II - Input array is sorted",
+        "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "06-searching-q9",
+        "title": "Valid Perfect Square",
+        "url": "https://leetcode.com/problems/valid-perfect-square/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "06-searching-q10",
+        "title": "Arranging Coins(Easy)",
+        "url": "https://leetcode.com/problems/arranging-coins/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "06-searching-q11",
+        "title": "Find Smallest Letter Greater Than Target",
+        "url": "https://leetcode.com/problems/find-smallest-letter-greater-than-target/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "06-searching-q12",
+        "title": "Kth Missing Positive Number",
+        "url": "https://leetcode.com/problems/kth-missing-positive-number/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "06-searching-q13",
+        "title": "Search Insert Position",
+        "url": "https://leetcode.com/problems/search-insert-position/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "06-searching-q14",
+        "title": "Peak Index in a Mountain Array",
+        "url": "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "06-searching-q15",
+        "title": "Count Negative Numbers in a Sorted Matrix",
+        "url": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "06-searching-q16",
+        "title": "Intersection of Two Arrays",
+        "url": "https://leetcode.com/problems/intersection-of-two-arrays/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "06-searching-q17",
+        "title": "Intersection of Two Arrays II",
+        "url": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "06-searching-q18",
+        "title": "Fair Candy Swap",
+        "url": "https://leetcode.com/problems/fair-candy-swap/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "06-searching-q19",
+        "title": "Check If N and Its Double Exist",
+        "url": "https://leetcode.com/problems/check-if-n-and-its-double-exist/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "06-searching-q20",
+        "title": "Special Array With X Elements Greater Than or Equal X",
+        "url": "https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "06-searching-q21",
+        "title": "Binary Search",
+        "url": "https://leetcode.com/problems/binary-search/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "06-searching-q22",
+        "title": "Find First and Last Position of Element in Sorted Array",
+        "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "06-searching-q23",
+        "title": "Single Element in a Sorted Array",
+        "url": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "06-searching-q24",
+        "title": "Search in Rotated Sorted Array",
+        "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "06-searching-q25",
+        "title": "Search in Rotated Sorted Array II",
+        "url": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "06-searching-q26",
+        "title": "Find Minimum in Rotated Sorted Array",
+        "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "06-searching-q27",
+        "title": "Find Peak Element",
+        "url": "https://leetcode.com/problems/find-peak-element/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "06-searching-q28",
+        "title": "Find Right Interval",
+        "url": "https://leetcode.com/problems/find-right-interval/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "06-searching-q29",
+        "title": "Reach a Number",
+        "url": "https://leetcode.com/problems/reach-a-number/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "06-searching-q30",
+        "title": "Maximum Value at a Given Index in a Bounded Array",
+        "url": "https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "06-searching-q31",
+        "title": "Koko Eating Bananas",
+        "url": "https://leetcode.com/problems/koko-eating-bananas/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "06-searching-q32",
+        "title": "Minimum Absolute Sum Difference",
+        "url": "https://leetcode.com/problems/minimum-absolute-sum-difference/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "06-searching-q33",
+        "title": "Search a 2D Matrix",
+        "url": "https://leetcode.com/problems/search-a-2d-matrix/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "06-searching-q34",
+        "title": "Find a Peak Element II",
+        "url": "https://leetcode.com/problems/find-a-peak-element-ii/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "06-searching-q35",
+        "title": "Frequency of the Most Frequent Element",
+        "url": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "06-searching-q36",
+        "title": "Find the Duplicate Number",
+        "url": "https://leetcode.com/problems/find-the-duplicate-number/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "06-searching-q37",
+        "title": "Capacity To Ship Packages Within D Days",
+        "url": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "06-searching-q38",
+        "title": "4 Sum",
+        "url": "https://leetcode.com/problems/4sum/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "06-searching-q39",
+        "title": "Median of Two Sorted Arrays",
+        "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "06-searching-q40",
+        "title": "Find Minimum in Rotated Sorted Array II",
+        "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "06-searching-q41",
+        "title": "Aggressive cows",
+        "url": "https://www.spoj.com/problems/AGGRCOW/",
+        "platform": "SPOJ",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "06-searching-q42",
+        "title": "Book allocation",
+        "url": "https://www.geeksforgeeks.org/allocate-minimum-number-pages/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "06-searching-q43",
+        "title": "Split Array Largest Sum",
+        "url": "https://leetcode.com/problems/split-array-largest-sum/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "06-searching-q44",
+        "title": "Find in Mountain Array",
+        "url": "https://leetcode.com/problems/find-in-mountain-array/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "06-searching-q45",
+        "title": "Count smaller number after Self",
+        "url": "https://leetcode.com/problems/count-of-smaller-numbers-after-self/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "06-searching-q46",
+        "title": "Divide Chocolate Problem",
+        "url": "https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html",
+        "platform": "Other",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "id": "07-sorting",
+    "title": "Sorting",
+    "filename": "07-sorting.md",
+    "videoLink": "https://youtu.be/F5MZyqRp_IM",
+    "totalProblems": 49,
+    "problems": [
+      {
+        "id": "07-sorting-q1",
+        "title": "Bubble Sort",
+        "url": "https://youtu.be/F5MZyqRp_IM",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q2",
+        "title": "Selection Sort",
+        "url": "https://youtu.be/Nd4SCCIHFWk",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q3",
+        "title": "Insertion Sort",
+        "url": "https://youtu.be/By_5-RRqVeE",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q4",
+        "title": "Cycle Sort",
+        "url": "https://www.youtube.com/watch?v=JfinxytTYFQ&list=RDCMUCBGOUQHNNtNGcGzVq5rIXjw&start_radio=1&rv=JfinxytTYFQ&t=2",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q5",
+        "title": "Merge Sort",
+        "url": "https://youtu.be/iKGAgWdgoRk",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q6",
+        "title": "Quick Sort",
+        "url": "https://youtu.be/Z8svOqamag8",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q7",
+        "title": "Merge Sorted Array",
+        "url": "https://leetcode.com/problems/merge-sorted-array/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q8",
+        "title": "Majority Element",
+        "url": "https://leetcode.com/problems/majority-element/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q9",
+        "title": "Contains Duplicate",
+        "url": "https://leetcode.com/problems/contains-duplicate/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q10",
+        "title": "Missing Number",
+        "url": "https://leetcode.com/problems/missing-number/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q11",
+        "title": "Intersection of Two Arrays",
+        "url": "https://leetcode.com/problems/intersection-of-two-arrays/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q12",
+        "title": "Intersection of Two Arrays II",
+        "url": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q13",
+        "title": "Third Maximum Number",
+        "url": "https://leetcode.com/problems/third-maximum-number/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q14",
+        "title": "Assign Cookies",
+        "url": "https://leetcode.com/problems/assign-cookies/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q15",
+        "title": "Array Partition I",
+        "url": "https://leetcode.com/problems/array-partition-i/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q16",
+        "title": "Maximum Product of Three Numbers",
+        "url": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q17",
+        "title": "Sort Array By Parity",
+        "url": "https://leetcode.com/problems/sort-array-by-parity/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q18",
+        "title": "Sort Array By Parity II",
+        "url": "https://leetcode.com/problems/sort-array-by-parity-ii/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q19",
+        "title": "Largest Perimeter Triangle",
+        "url": "https://leetcode.com/problems/largest-perimeter-triangle/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q20",
+        "title": "Squares of a Sorted Array",
+        "url": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q21",
+        "title": "Matrix Cells in Distance Order",
+        "url": "https://leetcode.com/problems/matrix-cells-in-distance-order/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q22",
+        "title": "Height Checker",
+        "url": "https://leetcode.com/problems/height-checker/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q23",
+        "title": "Relative Sort Array",
+        "url": "https://leetcode.com/problems/relative-sort-array/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q24",
+        "title": "Minimum Absolute Difference",
+        "url": "https://leetcode.com/problems/minimum-absolute-difference/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q25",
+        "title": "Rank Transform of an Array",
+        "url": "https://leetcode.com/problems/rank-transform-of-an-array/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q26",
+        "title": "Sort Integers by The Number of 1 Bits",
+        "url": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q27",
+        "title": "How Many Numbers Are Smaller Than the Current Number",
+        "url": "https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q28",
+        "title": "Maximum Product of Two Elements in an Array",
+        "url": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q29",
+        "title": "Average Salary Excluding the Minimum and Maximum Salary",
+        "url": "https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q30",
+        "title": "Make Two Arrays Equal by Reversing Sub-arrays",
+        "url": "https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q31",
+        "title": "Can Make Arithmetic Progression From Sequence",
+        "url": "https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q32",
+        "title": "Sort Array by Increasing Frequency",
+        "url": "https://leetcode.com/problems/sort-array-by-increasing-frequency/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q33",
+        "title": "Special Array With X Elements Greater Than or Equal X",
+        "url": "https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q34",
+        "title": "Find all numbers disappeared in an array",
+        "url": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q35",
+        "title": "Set Mismatch",
+        "url": "https://leetcode.com/problems/set-mismatch/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q36",
+        "title": "2Sum",
+        "url": "https://leetcode.com/problems/two-sum/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "07-sorting-q37",
+        "title": "3Sum",
+        "url": "https://leetcode.com/problems/3sum/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "07-sorting-q38",
+        "title": "3Sum Closest",
+        "url": "https://leetcode.com/problems/3sum-closest/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "07-sorting-q39",
+        "title": "4Sum",
+        "url": "https://leetcode.com/problems/4sum/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "07-sorting-q40",
+        "title": "Group Anagrams",
+        "url": "https://leetcode.com/problems/group-anagrams/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "07-sorting-q41",
+        "title": "Merge Intervals",
+        "url": "https://leetcode.com/problems/merge-intervals/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "07-sorting-q42",
+        "title": "Sort Colors",
+        "url": "https://leetcode.com/problems/sort-colors/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "07-sorting-q43",
+        "title": "Insertion Sort List",
+        "url": "https://leetcode.com/problems/insertion-sort-list/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "07-sorting-q44",
+        "title": "Sort List",
+        "url": "https://leetcode.com/problems/sort-list/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "07-sorting-q45",
+        "title": "Largest Number",
+        "url": "https://leetcode.com/problems/largest-number/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "07-sorting-q46",
+        "title": "Kth Largest Element in an Array",
+        "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "07-sorting-q47",
+        "title": "Find the Duplicate Number",
+        "url": "https://leetcode.com/problems/find-the-duplicate-number/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "07-sorting-q48",
+        "title": "Find all Duplicates in an array",
+        "url": "https://leetcode.com/problems/find-all-duplicates-in-an-array/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "07-sorting-q49",
+        "title": "First missing Positive",
+        "url": "https://leetcode.com/problems/first-missing-positive/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "id": "08-strings",
+    "title": "Strings",
+    "filename": "08-strings.md",
+    "videoLink": "https://youtu.be/zL1DPZ0Ovlo",
+    "totalProblems": 53,
+    "problems": [
+      {
+        "id": "08-strings-q1",
+        "title": "Defanging an Ip address",
+        "url": "https://leetcode.com/problems/defanging-an-ip-address/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q2",
+        "title": "Shuffle String",
+        "url": "https://leetcode.com/problems/shuffle-string/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q3",
+        "title": "Goal Parser Interpretation",
+        "url": "https://leetcode.com/problems/goal-parser-interpretation/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q4",
+        "title": "Count Items Matching a rule",
+        "url": "https://leetcode.com/problems/count-items-matching-a-rule/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q5",
+        "title": "Sorting the Sentence",
+        "url": "https://leetcode.com/problems/sorting-the-sentence/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q6",
+        "title": "Check if two strings are equivalent",
+        "url": "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q7",
+        "title": "To Lower Case",
+        "url": "https://leetcode.com/problems/to-lower-case/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q8",
+        "title": "Determine if string halves are alike",
+        "url": "https://leetcode.com/problems/determine-if-string-halves-are-alike/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q9",
+        "title": "Decrypt String from Alphabet to Integer Mapping",
+        "url": "https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q10",
+        "title": "Number of Strings That Appear as Substrings in Word",
+        "url": "https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q11",
+        "title": "Robot Return to Origin",
+        "url": "https://leetcode.com/problems/robot-return-to-origin/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q12",
+        "title": "Reverse Words in a String III",
+        "url": "https://leetcode.com/problems/reverse-words-in-a-string-iii/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q13",
+        "title": "Excel Sheet Column Title",
+        "url": "https://leetcode.com/problems/excel-sheet-column-title/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q14",
+        "title": "Implement strStr()",
+        "url": "https://leetcode.com/problems/implement-strstr/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q15",
+        "title": "Long Pressed Name",
+        "url": "https://leetcode.com/problems/long-pressed-name/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q16",
+        "title": "Valid Palindrome",
+        "url": "https://leetcode.com/problems/valid-palindrome/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q17",
+        "title": "Valid Palindrome II",
+        "url": "https://leetcode.com/problems/valid-palindrome-ii/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q18",
+        "title": "Longest Common Prefix",
+        "url": "https://leetcode.com/problems/longest-common-prefix/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q19",
+        "title": "Maximum Repeating Substring",
+        "url": "https://leetcode.com/problems/maximum-repeating-substring/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q20",
+        "title": "Check if Binary String Has at Most One Segment of Ones",
+        "url": "https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q21",
+        "title": "Merge Strings Alternately",
+        "url": "https://leetcode.com/problems/merge-strings-alternately/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q22",
+        "title": "Reverse Prefix of Word",
+        "url": "https://leetcode.com/problems/reverse-prefix-of-word/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q23",
+        "title": "Roman to Integer",
+        "url": "https://leetcode.com/problems/roman-to-integer/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q24",
+        "title": "Valid Parentheses",
+        "url": "https://leetcode.com/problems/valid-parentheses/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q25",
+        "title": "Length of last word",
+        "url": "https://leetcode.com/problems/length-of-last-word/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "08-strings-q26",
+        "title": "Jump Game VII",
+        "url": "https://leetcode.com/problems/jump-game-vii/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "08-strings-q27",
+        "title": "Split Two Strings to Make Palindrome",
+        "url": "https://leetcode.com/problems/split-two-strings-to-make-palindrome/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "08-strings-q28",
+        "title": "Number of Ways to Split a String",
+        "url": "https://leetcode.com/problems/number-of-ways-to-split-a-string/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "08-strings-q29",
+        "title": "Sentence Similarity III",
+        "url": "https://leetcode.com/problems/sentence-similarity-iii/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "08-strings-q30",
+        "title": "Repeated String Match",
+        "url": "https://leetcode.com/problems/repeated-string-match/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "08-strings-q31",
+        "title": "Next Greater Element III",
+        "url": "https://leetcode.com/problems/next-greater-element-iii/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "08-strings-q32",
+        "title": "Maximum Number of Removable Characters",
+        "url": "https://leetcode.com/problems/maximum-number-of-removable-characters/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "08-strings-q33",
+        "title": "Swap Adjacent in LR String",
+        "url": "https://leetcode.com/problems/swap-adjacent-in-lr-string/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "08-strings-q34",
+        "title": "Multiply Strings",
+        "url": "https://leetcode.com/problems/multiply-strings/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "08-strings-q35",
+        "title": "Basic Calculator II",
+        "url": "https://leetcode.com/problems/basic-calculator-ii/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "08-strings-q36",
+        "title": "Minimum Length of String After Deleting Similar Ends",
+        "url": "https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "08-strings-q37",
+        "title": "Number of Substrings With Only 1s",
+        "url": "https://leetcode.com/problems/number-of-substrings-with-only-1s/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "08-strings-q38",
+        "title": "Count Number of Homogenous Substrings",
+        "url": "https://leetcode.com/problems/count-number-of-homogenous-substrings/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "08-strings-q39",
+        "title": "Get Equal Substrings Within Budget",
+        "url": "https://leetcode.com/problems/get-equal-substrings-within-budget/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "08-strings-q40",
+        "title": "Shifting Letters",
+        "url": "https://leetcode.com/problems/shifting-letters/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "08-strings-q41",
+        "title": "Minimum Time Difference",
+        "url": "https://leetcode.com/problems/minimum-time-difference/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "08-strings-q42",
+        "title": "Find Kth Bit in Nth Binary String",
+        "url": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "08-strings-q43",
+        "title": "Camelcase Matching",
+        "url": "https://leetcode.com/problems/camelcase-matching/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "08-strings-q44",
+        "title": "Print Words Vertically",
+        "url": "https://leetcode.com/problems/print-words-vertically/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "08-strings-q45",
+        "title": "Valid Number",
+        "url": "https://leetcode.com/problems/valid-number/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "08-strings-q46",
+        "title": "Regular Expression Matching",
+        "url": "https://leetcode.com/problems/regular-expression-matching/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "08-strings-q47",
+        "title": "Last Substring in Lexicographical Order",
+        "url": "https://leetcode.com/problems/last-substring-in-lexicographical-order/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "08-strings-q48",
+        "title": "Basic Calculator",
+        "url": "https://leetcode.com/problems/basic-calculator/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "08-strings-q49",
+        "title": "Minimum Number of Operations to Make String Sorted",
+        "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "08-strings-q50",
+        "title": "Check If String Is Transformable With Substring Sort Operations",
+        "url": "https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "08-strings-q51",
+        "title": "Orderly Queue",
+        "url": "https://leetcode.com/problems/orderly-queue/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "08-strings-q52",
+        "title": "Special Binary String",
+        "url": "https://leetcode.com/problems/special-binary-string/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "08-strings-q53",
+        "title": "Click \"Show problem tags\" and do questions that have tags for things we have learnt so far only.",
+        "url": "https://leetcode.com/tag/string/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "id": "09-patterns",
+    "title": "Patterns",
+    "filename": "09-patterns.md",
+    "videoLink": null,
+    "totalProblems": 35,
+    "problems": [
+      {
+        "id": "09-patterns-q1",
+        "title": "*****",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q2",
+        "title": "*****",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q3",
+        "title": "*****",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q4",
+        "title": "*********",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q5",
+        "title": "* * *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q6",
+        "title": "* * * *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q7",
+        "title": "* * * * *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q8",
+        "title": "* * *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q9",
+        "title": "* * * * *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q10",
+        "title": "* * *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q11",
+        "title": "* * *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q12",
+        "title": "* * * *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q13",
+        "title": "*********",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q14",
+        "title": "**********",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q15",
+        "title": "*        *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q16",
+        "title": "****",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q17",
+        "title": "*      *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q18",
+        "title": "*  *   *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q19",
+        "title": "*      *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q20",
+        "title": "*        *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q21",
+        "title": "*    * *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q22",
+        "title": "*  *  *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q23",
+        "title": "**   *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q24",
+        "title": "**   *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q25",
+        "title": "*  *  *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q26",
+        "title": "*    * *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q27",
+        "title": "*****",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q28",
+        "title": "1 1 1 1 1 1",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q29",
+        "title": "1 2 3 4  17 18 19 20",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q30",
+        "title": "* * *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q31",
+        "title": "* * * *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q32",
+        "title": "* * *",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q33",
+        "title": "4 4 4 4 4 4 4",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q34",
+        "title": "E D C B A",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "09-patterns-q35",
+        "title": "1      1",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "id": "10-recursion",
+    "title": "Recursion",
+    "filename": "10-recursion.md",
+    "videoLink": "https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod",
+    "totalProblems": 81,
+    "problems": [
+      {
+        "id": "10-recursion-q1",
+        "title": "Complete Recursion Course",
+        "url": "https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q2",
+        "title": "Sum Triangle from Array `GFG`",
+        "url": "https://www.geeksforgeeks.org/sum-triangle-from-array/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q3",
+        "title": "Maximum and Minimum value in an array `GFG`",
+        "url": "https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q4",
+        "title": "Binary Search using recursion `leetcode`",
+        "url": "https://leetcode.com/problems/binary-search/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q5",
+        "title": "First Uppercase Letter in a String `GFG`",
+        "url": "https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q6",
+        "title": "Reverse String `leetcode`",
+        "url": "https://leetcode.com/problems/reverse-string/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q7",
+        "title": "Print 1 To N Without Loop `GFG`",
+        "url": "https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q8",
+        "title": "Fibonacci Number `leetcode`",
+        "url": "https://leetcode.com/problems/fibonacci-number/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q9",
+        "title": "Special Fibonacci `CodeChef`",
+        "url": "https://www.codechef.com/problems/FIBXOR01/",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q10",
+        "title": "Length of string using Recursion `GFG`",
+        "url": "https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q11",
+        "title": "Geek-onacci Number `GFG`",
+        "url": "https://practice.geeksforgeeks.org/problems/geek-onacci-number/0/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q12",
+        "title": "Recursive Bubble Sort `GFG`",
+        "url": "https://www.geeksforgeeks.org/recursive-bubble-sort/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q13",
+        "title": "Recursive Insertion Sort `GFG`",
+        "url": "https://www.geeksforgeeks.org/recursive-insertion-sort/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q14",
+        "title": "Sum of digit of a number using Recursion `GFG`",
+        "url": "https://www.geeksforgeeks.org/sum-digit-number-using-recursion/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q15",
+        "title": "Product of two numbers using Recursion `GFG`",
+        "url": "https://www.geeksforgeeks.org/product-2-numbers-using-recursion/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q16",
+        "title": "Check Prime or not `GFG`",
+        "url": "https://www.geeksforgeeks.org/recursive-program-prime-number/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q17",
+        "title": "Sum of Natural numbers using Recursion `GFG`",
+        "url": "https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q18",
+        "title": "Power of Two `leetcode`",
+        "url": "https://leetcode.com/problems/power-of-two/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q19",
+        "title": "Power of Three `leetcode`",
+        "url": "https://leetcode.com/problems/power-of-three/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q20",
+        "title": "Power of Four `leetcode`",
+        "url": "https://leetcode.com/problems/power-of-four/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q21",
+        "title": "Write a recursive function for given n and a to determine x:",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q22",
+        "title": "Write a recursive function that returns the factorial of a number. `HackerRank`",
+        "url": "https://www.hackerrank.com/challenges/30-recursion/problem",
+        "platform": "HackerRank",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q23",
+        "title": "Write a recursive function to check whether an array is sorted or not. `GFG`",
+        "url": "https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q24",
+        "title": "Number of Steps to Reduce a Number to Zero. `leetcode`",
+        "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q25",
+        "title": "Check for balanced paranthesis using recursion without stack. `GFG`",
+        "url": "https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q26",
+        "title": "Remove consecutive duplicate characters from a string. `GFG`",
+        "url": "https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q27",
+        "title": "Print all possible palindromic partitions of a string. `GFG`",
+        "url": "https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q28",
+        "title": "Power Set of permutations of a string in Lexicographic order. `GFG`",
+        "url": "https://www.geeksforgeeks.org/powet-set-lexicographic-order/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "10-recursion-q29",
+        "title": "Combination Sum `leetcode`",
+        "url": "https://leetcode.com/problems/combination-sum/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q30",
+        "title": "Word Search `leetcode`",
+        "url": "https://leetcode.com/problems/word-search/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q31",
+        "title": "Target sum `leetcode`",
+        "url": "https://leetcode.com/problems/target-sum/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q32",
+        "title": "Find Kth Bit in Nth Binary String `leetcode`",
+        "url": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q33",
+        "title": "K-th Symbol in Grammar `leetcode`",
+        "url": "https://leetcode.com/problems/k-th-symbol-in-grammar/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q34",
+        "title": "Count Good Numbers `leetcode`",
+        "url": "https://leetcode.com/problems/count-good-numbers/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q35",
+        "title": "N Digit numbers with digits in increasing order `GFG`",
+        "url": "https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q36",
+        "title": "Pow(x, n) `leetcode`",
+        "url": "https://leetcode.com/problems/powx-n/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q37",
+        "title": "Minimum Non-Zero Product of the Array Elements `leetcode`",
+        "url": "https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q38",
+        "title": "Handshakes `GFG`",
+        "url": "https://practice.geeksforgeeks.org/problems/handshakes1303/1/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q39",
+        "title": "HackerRank",
+        "url": "https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium",
+        "platform": "HackerRank",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q40",
+        "title": "Divisible Subset `Codechef`",
+        "url": "https://www.codechef.com/problems/DIVSUBS",
+        "platform": "Other",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q41",
+        "title": "Perfect squares `leetcode`",
+        "url": "https://leetcode.com/problems/perfect-squares/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q42",
+        "title": "decode string `leetcode`",
+        "url": "https://leetcode.com/problems/decode-string/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q43",
+        "title": "find the winner of the circular game `leetcode`",
+        "url": "https://leetcode.com/problems/find-the-winner-of-the-circular-game/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q44",
+        "title": "Different ways to add parantheses in the expression `leetcode`",
+        "url": "https://leetcode.com/problems/different-ways-to-add-parentheses/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q45",
+        "title": "Letter Combinations of a Phone Number `leetcode`",
+        "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q46",
+        "title": "Predict the winner. `leetcode`",
+        "url": "https://leetcode.com/problems/predict-the-winner/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q47",
+        "title": "Gray code `GFG` `Google`",
+        "url": "https://practice.geeksforgeeks.org/problems/gray-code-1611215248/1/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q48",
+        "title": "Combination Sum II `leetcode`",
+        "url": "https://leetcode.com/problems/combination-sum-ii/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q49",
+        "title": "combination Sum III `leetcode`",
+        "url": "https://leetcode.com/problems/combination-sum-iii/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q50",
+        "title": "Sudoku Solver `leetcode`",
+        "url": "https://leetcode.com/problems/sudoku-solver/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q51",
+        "title": "Letter tile possibilities `leetcode`",
+        "url": "https://leetcode.com/problems/letter-tile-possibilities/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q52",
+        "title": "All Paths From Source to Target `leetcode`",
+        "url": "https://leetcode.com/problems/all-paths-from-source-to-target/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q53",
+        "title": "Sort a stack using recursion `GFG`",
+        "url": "https://www.geeksforgeeks.org/sort-a-stack-using-recursion/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q54",
+        "title": "Reverse a stack using recursion `GFG`",
+        "url": "https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q55",
+        "title": "Beautiful Arrangement `leetcode`",
+        "url": "https://leetcode.com/problems/beautiful-arrangement/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q56",
+        "title": "Lowest Common Ancestor of a Binary Tree `GFG` `Amex`",
+        "url": "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q57",
+        "title": "Prime numbers after prime P with sum S `GFG`",
+        "url": "https://www.geeksforgeeks.org/prime-numbers-after-prime-p-with-sum-s/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q58",
+        "title": "Path with Maximum Gold `leetcode`",
+        "url": "https://leetcode.com/problems/path-with-maximum-gold/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q59",
+        "title": "Longest Possible Route in a Matrix with Hurdles `GFG`",
+        "url": "https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q60",
+        "title": "Tug of war `GFG` `Adobe`",
+        "url": "https://www.geeksforgeeks.org/tug-of-war/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q61",
+        "title": "Rat in a maze `GFG`",
+        "url": "https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q62",
+        "title": "Reorder List `leetcode`",
+        "url": "https://leetcode.com/problems/reorder-list/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "10-recursion-q63",
+        "title": "Parsing A Boolean Expression `leetcode`",
+        "url": "https://leetcode.com/problems/parsing-a-boolean-expression/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "10-recursion-q64",
+        "title": "Special Binary String `leetcode`",
+        "url": "https://leetcode.com/problems/special-binary-string/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "10-recursion-q65",
+        "title": "Permutation Sequence `leetcode`",
+        "url": "https://leetcode.com/problems/permutation-sequence/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "10-recursion-q66",
+        "title": "Next Happy Number `GFG`",
+        "url": "https://practice.geeksforgeeks.org/problems/next-happy-number4538/1/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "10-recursion-q67",
+        "title": "Basic Calculator `leetcode`",
+        "url": "https://leetcode.com/problems/basic-calculator/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "10-recursion-q68",
+        "title": "Integer to English Words `leetcode`",
+        "url": "https://leetcode.com/problems/integer-to-english-words/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "10-recursion-q69",
+        "title": "Maximize Number of Nice Divisors `leetcode`",
+        "url": "https://leetcode.com/problems/maximize-number-of-nice-divisors/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "10-recursion-q70",
+        "title": "N Queens `leetcode`",
+        "url": "https://leetcode.com/problems/n-queens/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "10-recursion-q71",
+        "title": "N Queens II `leetcode`",
+        "url": "https://leetcode.com/problems/n-queens-ii/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "10-recursion-q72",
+        "title": "Word break II `leetcode` `Google`",
+        "url": "https://leetcode.com/problems/word-break-ii/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "10-recursion-q73",
+        "title": "Unique paths III `leetcode`",
+        "url": "https://leetcode.com/problems/unique-paths-iii/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "10-recursion-q74",
+        "title": "Find shortest safe route in a path with landmines `GFG` `Google`",
+        "url": "https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "10-recursion-q75",
+        "title": "Minimum steps to destination `GFG` `Amex` `Adobe`",
+        "url": "https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "10-recursion-q76",
+        "title": "Hamiltonian Cycle `GFG`",
+        "url": "https://www.geeksforgeeks.org/hamiltonian-cycle-backtracking-6/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "10-recursion-q77",
+        "title": "M colorning problem `GFG`",
+        "url": "https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "10-recursion-q78",
+        "title": "The Knight's tour `GFG`",
+        "url": "https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "10-recursion-q79",
+        "title": "Maximum number possible by doing at-most K swaps `GFG`",
+        "url": "https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "10-recursion-q80",
+        "title": "HackerRank",
+        "url": "https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=hard",
+        "platform": "HackerRank",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "10-recursion-q81",
+        "title": "Concatenated Words `leetcode`",
+        "url": "https://leetcode.com/problems/concatenated-words/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "id": "11-bitwise",
+    "title": "Bitwise",
+    "filename": "11-bitwise.md",
+    "videoLink": "https://youtu.be/fzip9Aml6og",
+    "totalProblems": 29,
+    "problems": [
+      {
+        "id": "11-bitwise-q1",
+        "title": "Add Binary",
+        "url": "https://leetcode.com/problems/add-binary/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "11-bitwise-q2",
+        "title": "Single Number",
+        "url": "https://leetcode.com/problems/single-number/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "11-bitwise-q3",
+        "title": "Reverse Bits",
+        "url": "https://leetcode.com/problems/reverse-bits/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "11-bitwise-q4",
+        "title": "Number of 1 Bits",
+        "url": "https://leetcode.com/problems/number-of-1-bits/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "11-bitwise-q5",
+        "title": "Counting Bits",
+        "url": "https://leetcode.com/problems/counting-bits/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "11-bitwise-q6",
+        "title": "Binary Watch",
+        "url": "https://leetcode.com/problems/binary-watch/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "11-bitwise-q7",
+        "title": "Hamming Distance",
+        "url": "https://leetcode.com/problems/hamming-distance/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "11-bitwise-q8",
+        "title": "Number Complement",
+        "url": "https://leetcode.com/problems/number-complement/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "11-bitwise-q9",
+        "title": "Set Mismatch",
+        "url": "https://leetcode.com/problems/set-mismatch/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "11-bitwise-q10",
+        "title": "Binary Number with Alternating Bits",
+        "url": "https://leetcode.com/problems/binary-number-with-alternating-bits/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "11-bitwise-q11",
+        "title": "Prime Number of Set Bits in Binary Representation",
+        "url": "https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "11-bitwise-q12",
+        "title": "Binary Gap",
+        "url": "https://leetcode.com/problems/binary-gap/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "11-bitwise-q13",
+        "title": "Number of Steps to Reduce a Number to Zero",
+        "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "11-bitwise-q14",
+        "title": "Sort Integers by The Number of 1 Bits",
+        "url": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "11-bitwise-q15",
+        "title": "XOR Operation in an Array",
+        "url": "https://leetcode.com/problems/xor-operation-in-an-array/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "11-bitwise-q16",
+        "title": "Count the Number of Consistent Strings",
+        "url": "https://leetcode.com/problems/count-the-number-of-consistent-strings/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "11-bitwise-q17",
+        "title": "Decode XORed Array",
+        "url": "https://leetcode.com/problems/decode-xored-array/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "11-bitwise-q18",
+        "title": "Sum of All Subset XOR Totals",
+        "url": "https://leetcode.com/problems/sum-of-all-subset-xor-totals/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "11-bitwise-q19",
+        "title": "Longest Nice Substring",
+        "url": "https://leetcode.com/problems/longest-nice-substring/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "11-bitwise-q20",
+        "title": "Subsets",
+        "url": "https://leetcode.com/problems/subsets/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "11-bitwise-q21",
+        "title": "Subsets II",
+        "url": "https://leetcode.com/problems/subsets-ii/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "11-bitwise-q22",
+        "title": "Single Number II",
+        "url": "https://leetcode.com/problems/single-number-ii/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "11-bitwise-q23",
+        "title": "Divide Two Integers",
+        "url": "https://leetcode.com/problems/divide-two-integers/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "11-bitwise-q24",
+        "title": "Gray Code",
+        "url": "https://leetcode.com/problems/gray-code/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "11-bitwise-q25",
+        "title": "Repeated DNA Sequences",
+        "url": "https://leetcode.com/problems/repeated-dna-sequences/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "11-bitwise-q26",
+        "title": "Minimum Number of Flips to onvert Binary Matrix to zero matrix",
+        "url": "https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "11-bitwise-q27",
+        "title": "Minimum cost to connect two group of points",
+        "url": "https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "11-bitwise-q28",
+        "title": "Find XOR Sum of All Pairs Bitwise AND",
+        "url": "https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "11-bitwise-q29",
+        "title": "Click on [*Show problem tags*](https://leetcode.com/tag/bit-manipulation/) and do the questions that contains tags of topics we have covered so far.",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "id": "12-math",
+    "title": "Math",
+    "filename": "12-math.md",
+    "videoLink": "https://youtu.be/lmSpZ0bjCyQ",
+    "totalProblems": 29,
+    "problems": [
+      {
+        "id": "12-math-q1",
+        "title": "Click on [*Show problem tags*](https://leetcode.com/tag/math/) and do the questions that contains tags of topics we have covered so far.",
+        "url": null,
+        "platform": "Conceptual / Practice",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "12-math-q2",
+        "title": "Roman to Integer.",
+        "url": "https://leetcode.com/problems/roman-to-integer/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "12-math-q3",
+        "title": "Happy Number.",
+        "url": "https://leetcode.com/problems/happy-number/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "12-math-q4",
+        "title": "Armstrong Numbers",
+        "url": "https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1/?category[]=Mathematical&category[]=Mathematical&page=2&query=category[]Mathematicalpage2category[]Mathematical",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "12-math-q5",
+        "title": "Power of Four",
+        "url": "https://leetcode.com/problems/power-of-four/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "12-math-q6",
+        "title": "Factorial",
+        "url": "https://practice.geeksforgeeks.org/problems/factorial5739/1/?category[]=Mathematical&category[]=Mathematical&page=3&query=category[]Mathematicalpage3category[]Mathematical",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "12-math-q7",
+        "title": "Excel Sheet Column Title",
+        "url": "https://leetcode.com/problems/excel-sheet-column-title/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "12-math-q8",
+        "title": "Maximum Product of Three Numbers",
+        "url": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "12-math-q9",
+        "title": "Climbing Stairs",
+        "url": "https://leetcode.com/problems/climbing-stairs/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "12-math-q10",
+        "title": "Self Dividing Numbers",
+        "url": "https://leetcode.com/problems/self-dividing-numbers/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "12-math-q11",
+        "title": "Add Binary",
+        "url": "https://leetcode.com/problems/add-binary/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "12-math-q12",
+        "title": "Power of Two",
+        "url": "https://leetcode.com/problems/power-of-two/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "12-math-q13",
+        "title": "Integer to Roman",
+        "url": "https://leetcode.com/problems/integer-to-roman/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "12-math-q14",
+        "title": "Unique Paths",
+        "url": "https://leetcode.com/problems/unique-paths/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "12-math-q15",
+        "title": "Gray Code",
+        "url": "https://leetcode.com/problems/gray-code/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "12-math-q16",
+        "title": "Perfect Squares",
+        "url": "https://leetcode.com/problems/perfect-squares/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "12-math-q17",
+        "title": "Next Greater Element III",
+        "url": "https://leetcode.com/problems/next-greater-element-iii/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "12-math-q18",
+        "title": "Angle Between Hands of a Clock",
+        "url": "https://leetcode.com/problems/angle-between-hands-of-a-clock/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "12-math-q19",
+        "title": "String to Integer (atoi)",
+        "url": "https://leetcode.com/problems/string-to-integer-atoi/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "12-math-q20",
+        "title": "The k<sup>th</sup> Factor of n",
+        "url": "https://leetcode.com/problems/the-kth-factor-of-n/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "12-math-q21",
+        "title": "Queries on Number of Points Inside a Circle",
+        "url": "https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "12-math-q22",
+        "title": "Product of Array Except Self",
+        "url": "https://leetcode.com/problems/product-of-array-except-self/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "12-math-q23",
+        "title": "Multiply Strings",
+        "url": "https://leetcode.com/problems/multiply-strings/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "12-math-q24",
+        "title": "Encode and Decode TinyURL",
+        "url": "https://leetcode.com/problems/encode-and-decode-tinyurl/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "12-math-q25",
+        "title": "Integer Break",
+        "url": "https://leetcode.com/problems/integer-break/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "12-math-q26",
+        "title": "Permutation Sequence",
+        "url": "https://leetcode.com/problems/permutation-sequence/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "12-math-q27",
+        "title": "Basic Calculator",
+        "url": "https://leetcode.com/problems/basic-calculator/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "12-math-q28",
+        "title": "Max Points on a Line",
+        "url": "https://leetcode.com/problems/max-points-on-a-line/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "12-math-q29",
+        "title": "Number of Digit One",
+        "url": "https://leetcode.com/problems/number-of-digit-one/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "id": "13-complexities",
+    "title": "Complexities",
+    "filename": "13-complexities.md",
+    "videoLink": null,
+    "totalProblems": 0,
+    "problems": []
+  },
+  {
+    "id": "14-oop",
+    "title": "Oop",
+    "filename": "14-oop.md",
+    "videoLink": null,
+    "totalProblems": 35,
+    "problems": [
+      {
+        "id": "14-oop-q1",
+        "title": "Kunal's notes",
+        "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/lectures/17-oop/notes",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q2",
+        "title": "Object Oriented Paradigms `GFG`",
+        "url": "https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q3",
+        "title": "Constructors in Java `GFG`",
+        "url": "https://www.geeksforgeeks.org/constructors-in-java/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q4",
+        "title": "Constructor chaining in Java `GFG`",
+        "url": "https://www.geeksforgeeks.org/constructor-chaining-java-examples/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q5",
+        "title": "Inheritance in Java `GFG`",
+        "url": "https://www.geeksforgeeks.org/inheritance-in-java/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q6",
+        "title": "Overriding in Java `GFG`",
+        "url": "https://www.geeksforgeeks.org/overriding-in-java/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q7",
+        "title": "Abstraction in Java `GFG`",
+        "url": "https://www.geeksforgeeks.org/abstraction-in-java-2/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q8",
+        "title": "Access modifiers in Java `GFG`",
+        "url": "https://www.geeksforgeeks.org/access-modifiers-java/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q9",
+        "title": "Wrapper Classes in Java `GFG`",
+        "url": "https://www.geeksforgeeks.org/wrapper-classes-java/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q10",
+        "title": "Need of wrapper classes in Java `GFG`",
+        "url": "https://www.geeksforgeeks.org/need-of-wrapper-classes-in-java/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q11",
+        "title": "this keyowrd in Java `Javatpoint`",
+        "url": "https://www.javatpoint.com/this-keyword",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q12",
+        "title": "Important keyowrds in Java inheritance - extends,implements,super,instanceof `Tutorialspoint`",
+        "url": "https://www.tutorialspoint.com/java/java_inheritance.htm",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q13",
+        "title": "Instance initializer block `Javatpoint`",
+        "url": "https://www.javatpoint.com/instance-initializer-block",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q14",
+        "title": "Dynamic Method Dispatch or Runtime Polymorphism in Java `GFG`",
+        "url": "https://www.geeksforgeeks.org/dynamic-method-dispatch-runtime-polymorphism-java/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q15",
+        "title": "Cohesion in Java `GFG`",
+        "url": "https://www.geeksforgeeks.org/cohesion-in-java/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q16",
+        "title": "Coupling in Java `GFG`",
+        "url": "https://www.geeksforgeeks.org/coupling-in-java/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q17",
+        "title": "Can we declare main() method as private or protected or with no access modifier in java? `Tutorialspoint`",
+        "url": "https://www.tutorialspoint.com/can-we-declare-main-method-as-private-or-protected-or-with-no-access-modifier-in-java",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q18",
+        "title": "Difference between Method Overloading and Method Overriding in Java? `GFG`",
+        "url": "https://www.geeksforgeeks.org/difference-between-method-overloading-and-method-overriding-in-java/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q19",
+        "title": "Can we declare interface members as private or protected in java8? `Tutorialspoint`",
+        "url": "https://www.tutorialspoint.com/can-we-declare-interface-members-as-private-or-protected-in-java8",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q20",
+        "title": "Can we override a private or static method in Java? `Tutorialspoint`",
+        "url": "https://www.tutorialspoint.com/can-we-override-a-private-or-static-method-in-java",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q21",
+        "title": "What is diamond problem in Java? `Javatpoint`",
+        "url": "https://www.javatpoint.com/what-is-diamond-problem-in-java",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q22",
+        "title": "Can we pass this keyword as argument in a method call? `Javatpoint`",
+        "url": "https://www.javatpoint.com/this-keyword#:~:text=this%3A%20to%20pass%20as%20an%20argument%20in%20the%20method",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q23",
+        "title": "Java constructor returns a value, but what? `Javatpoint`",
+        "url": "https://www.javatpoint.com/java-constructor-returns-a-value-but-what",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q24",
+        "title": "What is covariant return type? `Javatpoint`",
+        "url": "https://www.javatpoint.com/covariant-return-type",
+        "platform": "Other",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q25",
+        "title": "Private classes and singleton classes in Java `GFG`",
+        "url": "https://www.geeksforgeeks.org/private-constructors-and-singleton-classes-in-java/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q26",
+        "title": "How to prevent Singleton Pattern from Reflection, Serialization and Cloning? `GFG`",
+        "url": "https://www.geeksforgeeks.org/prevent-singleton-pattern-reflection-serialization-cloning/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q27",
+        "title": "Double-Check Locking For Singleton Class `GFG`",
+        "url": "https://www.geeksforgeeks.org/java-program-to-demonstrate-the-double-check-locking-for-singleton-class/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q28",
+        "title": "Inheritance I `HackerRank`",
+        "url": "https://www.hackerrank.com/challenges/java-inheritance-1/problem?isFullScreen=true",
+        "platform": "HackerRank",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q29",
+        "title": "Inheritance II `HackerRank`",
+        "url": "https://www.hackerrank.com/challenges/java-inheritance-2/problem?isFullScreen=true",
+        "platform": "HackerRank",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q30",
+        "title": "Java Abstract class `HackerRank`",
+        "url": "https://www.hackerrank.com/challenges/java-abstract-class/problem?isFullScreen=true",
+        "platform": "HackerRank",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q31",
+        "title": "Interface `HackerRank`",
+        "url": "https://www.hackerrank.com/challenges/java-interface/problem?isFullScreen=true",
+        "platform": "HackerRank",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q32",
+        "title": "Method Overriding I `HackerRank`",
+        "url": "https://www.hackerrank.com/challenges/java-method-overriding/problem?isFullScreen=true",
+        "platform": "HackerRank",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q33",
+        "title": "Method Overriding II (Use super keyword) `HackerRank`",
+        "url": "https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem?isFullScreen=true",
+        "platform": "HackerRank",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q34",
+        "title": "Java instanceof keyword `HackerRank`",
+        "url": "https://www.hackerrank.com/challenges/java-instanceof-keyword/problem?isFullScreen=true",
+        "platform": "HackerRank",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "14-oop-q35",
+        "title": "Java Iterator `HackerRank`",
+        "url": "https://www.hackerrank.com/challenges/java-iterator/problem?isFullScreen=true",
+        "platform": "HackerRank",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "id": "15-linkedlist",
+    "title": "Linkedlist",
+    "filename": "15-linkedlist.md",
+    "videoLink": null,
+    "totalProblems": 48,
+    "problems": [
+      {
+        "id": "15-linkedlist-q1",
+        "title": "Convert Binary Number in a Linked List to Integer `leetcode`",
+        "url": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "15-linkedlist-q2",
+        "title": "Reverse Linked List `leetcode`",
+        "url": "https://leetcode.com/problems/reverse-linked-list/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "15-linkedlist-q3",
+        "title": "Middle of the Linked List `leetcode`",
+        "url": "https://leetcode.com/problems/middle-of-the-linked-list/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "15-linkedlist-q4",
+        "title": "Merge Two Sorted Lists `leetcode`",
+        "url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "15-linkedlist-q5",
+        "title": "Delete Node in a Linked List `leetcode`",
+        "url": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "15-linkedlist-q6",
+        "title": "Palindrome Linked List `leetcode` `Snapdeal`",
+        "url": "https://leetcode.com/problems/palindrome-linked-list/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "15-linkedlist-q7",
+        "title": "Intersection of Two Linked Lists `leetcode`",
+        "url": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "15-linkedlist-q8",
+        "title": "Linked List Cycle `leetcode` `Samsung`",
+        "url": "https://leetcode.com/problems/linked-list-cycle/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "15-linkedlist-q9",
+        "title": "Remove Duplicates from Sorted List `leetcode`",
+        "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "15-linkedlist-q10",
+        "title": "Find All Numbers Disappeared in an Array `leetcode`",
+        "url": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "15-linkedlist-q11",
+        "title": "Remove Linked List Elements `leetcode`",
+        "url": "https://leetcode.com/problems/remove-linked-list-elements/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "15-linkedlist-q12",
+        "title": "Design Twitter `leetcode`",
+        "url": "https://leetcode.com/problems/design-twitter/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q13",
+        "title": "Design Linked List `leetcode`",
+        "url": "https://leetcode.com/problems/design-linked-list/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q14",
+        "title": "Reverse Linked List II `leetcode`",
+        "url": "https://leetcode.com/problems/reverse-linked-list-ii/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q15",
+        "title": "Reorder List `leetcode`",
+        "url": "https://leetcode.com/problems/reorder-list/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q16",
+        "title": "Remove Nth Node From End of List `leetcode` `HSBC`",
+        "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q17",
+        "title": "Swapping Nodes in a Linked List `leetcode`",
+        "url": "https://leetcode.com/problems/swapping-nodes-in-a-linked-list/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q18",
+        "title": "Add Two Numbers `leetcode` `TCS` `Amazon` `Microsoft` `Facebook` `Qualcomm`",
+        "url": "https://leetcode.com/problems/add-two-numbers/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q19",
+        "title": "Add Two Numbers II `leetcode`",
+        "url": "https://leetcode.com/problems/add-two-numbers-ii/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q20",
+        "title": "Linked List Cycle II `leetcode`",
+        "url": "https://leetcode.com/problems/linked-list-cycle-ii/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q21",
+        "title": "Flatten a Multilevel Doubly Linked List `leetcode` `Amazon`",
+        "url": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q22",
+        "title": "Rotate List `leetcode` `Microsoft`",
+        "url": "https://leetcode.com/problems/rotate-list/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q23",
+        "title": "Copy List with Random Pointer `leetcode`",
+        "url": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q24",
+        "title": "LRU Cache `leetcode`",
+        "url": "https://leetcode.com/problems/lru-cache/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q25",
+        "title": "Remove Duplicates from Sorted List II `leetcode` `Amex`",
+        "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q26",
+        "title": "Design Browser History `leetcode`",
+        "url": "https://leetcode.com/problems/design-browser-history/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q27",
+        "title": "Partition list `leetcode`",
+        "url": "https://leetcode.com/problems/partition-list/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q28",
+        "title": "Find first node of loop in a linked list `GFG`",
+        "url": "https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q29",
+        "title": "Swap Nodes in Pairs `leetcode`",
+        "url": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q30",
+        "title": "Remove Zero Sum Consecutive Nodes from Linked List `leetcode`",
+        "url": "https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q31",
+        "title": "Insertion Sort List `leetcode`",
+        "url": "https://leetcode.com/problems/insertion-sort-list/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q32",
+        "title": "Reverse Nodes in Even Length Groups `leetcode`",
+        "url": "https://leetcode.com/problems/reverse-nodes-in-even-length-groups/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q33",
+        "title": "Linked List Random Node `leetcode`",
+        "url": "https://leetcode.com/problems/linked-list-random-node/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q34",
+        "title": "Sort List `leetcode`",
+        "url": "https://leetcode.com/problems/sort-list/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q35",
+        "title": "Merge In Between Linked Lists `leetcode`",
+        "url": "https://leetcode.com/problems/merge-in-between-linked-lists/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q36",
+        "title": "Design Browser History `leetcode`",
+        "url": "https://leetcode.com/problems/design-browser-history/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q37",
+        "title": "Delete the Middle Node of a Linked List `leetcode`",
+        "url": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q38",
+        "title": "Next Greater Node In Linked List `leetcode`",
+        "url": "https://leetcode.com/problems/next-greater-node-in-linked-list/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q39",
+        "title": "Odd Even Linked List `leetcode`",
+        "url": "https://leetcode.com/problems/odd-even-linked-list/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q40",
+        "title": "Linked List Random Node `leetcode`",
+        "url": "https://leetcode.com/problems/linked-list-random-node/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q41",
+        "title": "Split Linked List in Parts `leetcode`",
+        "url": "https://leetcode.com/problems/split-linked-list-in-parts/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q42",
+        "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points `leetcode`",
+        "url": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "15-linkedlist-q43",
+        "title": "Reverse Nodes in k-Group `leetcode`",
+        "url": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "15-linkedlist-q44",
+        "title": "LFU Cache `leetcode` `Google`",
+        "url": "https://leetcode.com/problems/lfu-cache/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "15-linkedlist-q45",
+        "title": "Merge k Sorted Lists `leetcode`",
+        "url": "https://leetcode.com/problems/merge-k-sorted-lists/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "15-linkedlist-q46",
+        "title": "Clone a linked list with next and random pointer `GFG` `Google` `Flipkart`",
+        "url": "https://www.geeksforgeeks.org/clone-linked-list-next-random-pointer-o1-space/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "15-linkedlist-q47",
+        "title": "All O'one Data Structure `leetcode`",
+        "url": "https://leetcode.com/problems/all-oone-data-structure/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "15-linkedlist-q48",
+        "title": "Design Skiplist `leetcode`",
+        "url": "https://leetcode.com/problems/design-skiplist/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "id": "16-stack-queue",
+    "title": "Stack Queue",
+    "filename": "16-stack-queue.md",
+    "videoLink": null,
+    "totalProblems": 34,
+    "problems": [
+      {
+        "id": "16-stack-queue-q1",
+        "title": "Next greater element I `leetcode`",
+        "url": "https://leetcode.com/problems/next-greater-element-i/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "16-stack-queue-q2",
+        "title": "Valid Parentheses `leetcode`",
+        "url": "https://leetcode.com/problems/valid-parentheses/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "16-stack-queue-q3",
+        "title": "Min Stack `leetcode`",
+        "url": "https://leetcode.com/problems/min-stack/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "16-stack-queue-q4",
+        "title": "Remove Outermost Parentheses `leetcode`",
+        "url": "https://leetcode.com/problems/remove-outermost-parentheses/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "16-stack-queue-q5",
+        "title": "Remove All Adjacent Duplicates In String `leetcode`",
+        "url": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "16-stack-queue-q6",
+        "title": "Number of Recent Calls `leetcode`",
+        "url": "https://leetcode.com/problems/number-of-recent-calls/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "16-stack-queue-q7",
+        "title": "Reverse First K elements of Queue `GFG`",
+        "url": "https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "16-stack-queue-q8",
+        "title": "Delete middle element of a stack `GFG`",
+        "url": "https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "16-stack-queue-q9",
+        "title": "Inorder Traversal (Iterative) `GFG`",
+        "url": "https://practice.geeksforgeeks.org/problems/inorder-traversal-iterative/1/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "16-stack-queue-q10",
+        "title": "Preorder traversal (Iterative) `GFG`",
+        "url": "https://practice.geeksforgeeks.org/problems/preorder-traversal-iterative/1/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "16-stack-queue-q11",
+        "title": "Flood fill `leetcode`",
+        "url": "https://leetcode.com/problems/flood-fill/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "16-stack-queue-q12",
+        "title": "Implement Queue using Stacks `leetcode`",
+        "url": "https://leetcode.com/problems/implement-queue-using-stacks/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "16-stack-queue-q13",
+        "title": "Design a Stack With Increment Operation `leetcode`",
+        "url": "https://leetcode.com/problems/design-a-stack-with-increment-operation/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "16-stack-queue-q14",
+        "title": "Minimum Add to Make Parentheses Valid `leetcode`",
+        "url": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "16-stack-queue-q15",
+        "title": "Decode String `leetcode`",
+        "url": "https://leetcode.com/problems/decode-string/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "16-stack-queue-q16",
+        "title": "Asteroid Collision `leetcode`",
+        "url": "https://leetcode.com/problems/asteroid-collision/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "16-stack-queue-q17",
+        "title": "132 Pattern `leetcode`",
+        "url": "https://leetcode.com/problems/132-pattern/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "16-stack-queue-q18",
+        "title": "Design circular Queue `leetcode`",
+        "url": "https://leetcode.com/problems/design-circular-queue/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "16-stack-queue-q19",
+        "title": "Find the Most Competitive Subsequence `leetcode`",
+        "url": "https://leetcode.com/problems/find-the-most-competitive-subsequence/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "16-stack-queue-q20",
+        "title": "Design Front Middle Back Queue `leetcode`",
+        "url": "https://leetcode.com/problems/design-front-middle-back-queue/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "16-stack-queue-q21",
+        "title": "Circular tour `GFG` `Amex` `Amazon`",
+        "url": "https://practice.geeksforgeeks.org/problems/circular-tour/1",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "16-stack-queue-q22",
+        "title": "Task Scheduler `leetcode`",
+        "url": "https://leetcode.com/problems/task-scheduler/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "16-stack-queue-q23",
+        "title": "Stock span problem `GFG`",
+        "url": "https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "16-stack-queue-q24",
+        "title": "Max Rectangle `GFG`",
+        "url": "https://practice.geeksforgeeks.org/problems/max-rectangle/1/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "16-stack-queue-q25",
+        "title": "The Celebrity Problem `Google` `GFG`",
+        "url": "https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "16-stack-queue-q26",
+        "title": "Maximum Rectangular Area in a Histogram `GFG`",
+        "url": "https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "16-stack-queue-q27",
+        "title": "Binary Tree Right Side View `leetcode`",
+        "url": "https://leetcode.com/problems/binary-tree-right-side-view/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "16-stack-queue-q28",
+        "title": "Snake and Ladders `leetcode`",
+        "url": "https://leetcode.com/problems/snakes-and-ladders/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "16-stack-queue-q29",
+        "title": "Longest Valid Parantheses `leetcode`",
+        "url": "https://leetcode.com/problems/longest-valid-parentheses/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "16-stack-queue-q30",
+        "title": "Sliding window maximum `leetcode`",
+        "url": "https://leetcode.com/problems/sliding-window-maximum/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "16-stack-queue-q31",
+        "title": "Brace Expansion II `leetcode`",
+        "url": "https://leetcode.com/problems/brace-expansion-ii/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "16-stack-queue-q32",
+        "title": "Card Rotation `GFG`",
+        "url": "https://practice.geeksforgeeks.org/problems/card-rotation5834/1/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "16-stack-queue-q33",
+        "title": "Minimum steps to reach target by a Knight `GFG`",
+        "url": "https://www.geeksforgeeks.org/minimum-steps-reach-target-knight/",
+        "platform": "GeeksforGeeks",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "16-stack-queue-q34",
+        "title": "Count number of islands `leetcode`",
+        "url": "https://leetcode.com/problems/number-of-islands/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "id": "17-trees",
+    "title": "Trees",
+    "filename": "17-trees.md",
+    "videoLink": null,
+    "totalProblems": 54,
+    "problems": [
+      {
+        "id": "17-trees-q1",
+        "title": "Binary Tree Inorder Traversal `leetcode`",
+        "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "17-trees-q2",
+        "title": "Same Tree `leetcode`",
+        "url": "https://leetcode.com/problems/same-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "17-trees-q3",
+        "title": "Symmetric Tree `leetcode`",
+        "url": "https://leetcode.com/problems/symmetric-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "17-trees-q4",
+        "title": "Maximum Depth of Binary Tree `leetcode`",
+        "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "17-trees-q5",
+        "title": "Convert Sorted Array to Binary Search Tree `leetcode`",
+        "url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "17-trees-q6",
+        "title": "Balanced Binary Tree `leetcode`",
+        "url": "https://leetcode.com/problems/balanced-binary-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "17-trees-q7",
+        "title": "Minimum Depth of Binary Tree `leetcode`",
+        "url": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "17-trees-q8",
+        "title": "Path Sum `leetcode`",
+        "url": "https://leetcode.com/problems/path-sum/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "17-trees-q9",
+        "title": "Binary Tree Preorder Traversal `leetcode`",
+        "url": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "17-trees-q10",
+        "title": "Binary Tree Postorder Traversal `leetcode`",
+        "url": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "17-trees-q11",
+        "title": "Invert Binary Tree `leetcode`",
+        "url": "https://leetcode.com/problems/invert-binary-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "17-trees-q12",
+        "title": "Binary Tree Paths `leetcode`",
+        "url": "https://leetcode.com/problems/binary-tree-paths/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "17-trees-q13",
+        "title": "Sum of Left Leaves `leetcode`",
+        "url": "https://leetcode.com/problems/sum-of-left-leaves/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "17-trees-q14",
+        "title": "Find Mode in Binary Search Tree `leetcode`",
+        "url": "https://leetcode.com/problems/find-mode-in-binary-search-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "17-trees-q15",
+        "title": "Minimum Absolute Difference in BST `leetcode`",
+        "url": "https://leetcode.com/problems/minimum-absolute-difference-in-bst/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "17-trees-q16",
+        "title": "Diameter of Binary Tree `leetcode`",
+        "url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Easy"
+      },
+      {
+        "id": "17-trees-q17",
+        "title": "Validate Binary Search Tree `leetcode`",
+        "url": "https://leetcode.com/problems/validate-binary-search-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "17-trees-q18",
+        "title": "All Nodes Distance K in Binary Tree `leetcode`",
+        "url": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "17-trees-q19",
+        "title": "Validate Binary Tree Nodes `leetcode`",
+        "url": "https://leetcode.com/problems/validate-binary-tree-nodes/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "17-trees-q20",
+        "title": "Longest Univalue Path `leetcode`",
+        "url": "https://leetcode.com/problems/longest-univalue-path/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "17-trees-q21",
+        "title": "Closest Nodes Queries in a Binary Search Tree `leetcode`",
+        "url": "https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "17-trees-q22",
+        "title": "Maximum Width of Binary Tree `leetcode`",
+        "url": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "17-trees-q23",
+        "title": "Linked List in Binary Tree `leetcode`",
+        "url": "https://leetcode.com/problems/linked-list-in-binary-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "17-trees-q24",
+        "title": "Operations on Tree `leetcode`",
+        "url": "https://leetcode.com/problems/operations-on-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "17-trees-q25",
+        "title": "Verify Preorder Serialization of a Binary Tree `leetcode`",
+        "url": "https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "17-trees-q26",
+        "title": "Kth Largest Sum in a Binary Tree `leetcode`",
+        "url": "https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "17-trees-q27",
+        "title": "Count Nodes With the Highest Score `leetcode`",
+        "url": "https://leetcode.com/problems/count-nodes-with-the-highest-score/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "17-trees-q28",
+        "title": "Path Sum III `leetcode`",
+        "url": "https://leetcode.com/problems/path-sum-iii/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "17-trees-q29",
+        "title": "Maximum Product of Splitted Binary Tree `leetcode`",
+        "url": "https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "17-trees-q30",
+        "title": "Most Profitable Path in a Tree `leetcode`",
+        "url": "https://leetcode.com/problems/most-profitable-path-in-a-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "17-trees-q31",
+        "title": "Step-By-Step Directions From a Binary Tree Node to Another `leetcode`",
+        "url": "https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "17-trees-q32",
+        "title": "Logical OR of Two Binary Grids Represented as Quad-Trees `leetcode`",
+        "url": "https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "17-trees-q33",
+        "title": "Flip Binary Tree To Match Preorder Traversal `leetcode`",
+        "url": "https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/",
+        "platform": "LeetCode",
+        "difficulty": "Medium"
+      },
+      {
+        "id": "17-trees-q34",
+        "title": "Kth Ancestor of a Tree Node `leetcode`",
+        "url": "https://leetcode.com/problems/kth-ancestor-of-a-tree-node/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "17-trees-q35",
+        "title": "Difference Between Maximum and Minimum Price Sum `leetcode`",
+        "url": "https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "17-trees-q36",
+        "title": "Merge BSTs to Create Single BST `leetcode`",
+        "url": "https://leetcode.com/problems/merge-bsts-to-create-single-bst/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "17-trees-q37",
+        "title": "Frog Position After T Seconds `leetcode`",
+        "url": "https://leetcode.com/problems/frog-position-after-t-seconds/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "17-trees-q38",
+        "title": "Height of Binary Tree After Subtree Removal Queries `leetcode`",
+        "url": "https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "17-trees-q39",
+        "title": "Collect Coins in a Tree `leetcode`",
+        "url": "https://leetcode.com/problems/collect-coins-in-a-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "17-trees-q40",
+        "title": "Binary Tree Maximum Path Sum `leetcode`",
+        "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "17-trees-q41",
+        "title": "Tree of Coprimes `leetcode`",
+        "url": "https://leetcode.com/problems/tree-of-coprimes/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "17-trees-q42",
+        "title": "Maximum Sum BST in Binary Tree `leetcode`",
+        "url": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "17-trees-q43",
+        "title": "Minimize the Total Price of the Trips `leetcode`",
+        "url": "https://leetcode.com/problems/minimize-the-total-price-of-the-trips/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "17-trees-q44",
+        "title": "Number Of Ways To Reconstruct A Tree `leetcode`",
+        "url": "https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "17-trees-q45",
+        "title": "Smallest Missing Genetic Value in Each Subtree `leetcode`",
+        "url": "https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "17-trees-q46",
+        "title": "Vertical Order Traversal of a Binary Tree `leetcode`",
+        "url": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "17-trees-q47",
+        "title": "Binary Tree Cameras `leetcode`",
+        "url": "https://leetcode.com/problems/binary-tree-cameras/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "17-trees-q48",
+        "title": "Number of Ways to Reorder Array to Get Same BST `leetcode`",
+        "url": "https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "17-trees-q49",
+        "title": "Count Number of Possible Root Nodes `leetcode`",
+        "url": "https://leetcode.com/problems/count-number-of-possible-root-nodes/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "17-trees-q50",
+        "title": "Count Ways to Build Rooms in an Ant Colony `leetcode`",
+        "url": "https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "17-trees-q51",
+        "title": "Minimum Score After Removals on a Tree `leetcode`",
+        "url": "https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "17-trees-q52",
+        "title": "Create Components With Same Value `leetcode`",
+        "url": "https://leetcode.com/problems/create-components-with-same-value/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "17-trees-q53",
+        "title": "Serialize and Deserialize Binary Tree `leetcode`",
+        "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      },
+      {
+        "id": "17-trees-q54",
+        "title": "Longest Path With Different Adjacent Characters `leetcode`",
+        "url": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters/",
+        "platform": "LeetCode",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "id": "18-heaps",
+    "title": "Heaps",
+    "filename": "18-heaps.md",
+    "videoLink": null,
+    "totalProblems": 0,
+    "problems": []
+  }
+]

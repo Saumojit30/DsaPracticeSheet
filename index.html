@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DSA Bootcamp Tracker | Kunal Kushwaha Assignments</title>
+  <link rel="stylesheet" href="css/styles.css" />
+  <!-- Feather Icons for crisp local SVGs -->
+  <script src="lib/feather.min.js"></script>
+</head>
+<body>
+  <!-- Sticky Header -->
+  <header class="app-header">
+    <div class="container header-content">
+      <a href="#" class="brand">
+        <div class="brand-icon">⚡</div>
+        <div>
+          <h1 class="brand-title">DSA Tracker</h1>
+          <span class="brand-subtitle">Kunal Kushwaha Java Bootcamp</span>
+        </div>
+      </a>
+
+      <div class="header-actions">
+        <button id="themeToggle" class="btn-icon" title="Toggle Light/Dark Theme" aria-label="Toggle Theme">
+          <i data-feather="moon"></i>
+        </button>
+        <button id="btnOpenExport" class="btn-icon" title="Backup & Restore Progress" aria-label="Backup Progress">
+          <i data-feather="download"></i>
+        </button>
+        <button id="btnResetAll" class="btn-icon" title="Reset Progress" aria-label="Reset Progress">
+          <i data-feather="trash-2"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Stats Cards Grid -->
+    <section class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-icon" style="background: rgba(59, 130, 246, 0.15); color: #3b82f6;">
+          <i data-feather="check-circle"></i>
+        </div>
+        <div class="stat-info">
+          <div class="stat-label">Total Solved</div>
+          <div class="stat-value" id="statTotalSolved">0 / 0</div>
+          <div class="stat-sub" id="statTotalPct">0% Complete</div>
+        </div>
+      </div>
+
+      <div class="stat-card">
+        <div class="stat-icon" style="background: rgba(16, 185, 129, 0.15); color: #10b981;">
+          <i data-feather="zap"></i>
+        </div>
+        <div class="stat-info">
+          <div class="stat-label">Easy Solved</div>
+          <div class="stat-value" id="statEasySolved" style="color: #10b981;">0</div>
+          <div class="stat-sub" id="statEasySub">0 of 0</div>
+        </div>
+      </div>
+
+      <div class="stat-card">
+        <div class="stat-icon" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b;">
+          <i data-feather="activity"></i>
+        </div>
+        <div class="stat-info">
+          <div class="stat-label">Medium Solved</div>
+          <div class="stat-value" id="statMediumSolved" style="color: #f59e0b;">0</div>
+          <div class="stat-sub" id="statMediumSub">0 of 0</div>
+        </div>
+      </div>
+
+      <div class="stat-card">
+        <div class="stat-icon" style="background: rgba(239, 68, 68, 0.15); color: #ef4444;">
+          <i data-feather="award"></i>
+        </div>
+        <div class="stat-info">
+          <div class="stat-label">Hard Solved</div>
+          <div class="stat-value" id="statHardSolved" style="color: #ef4444;">0</div>
+          <div class="stat-sub" id="statHardSub">0 of 0</div>
+        </div>
+      </div>
+
+      <div class="stat-card">
+        <div class="stat-icon" style="background: rgba(251, 191, 36, 0.15); color: #fbbf24;">
+          <i data-feather="flame"></i>
+        </div>
+        <div class="stat-info">
+          <div class="stat-label">Day Streak</div>
+          <div class="stat-value" id="statStreak">0 Days</div>
+          <div class="stat-sub">Keep the momentum!</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Overall Progress Bar Box -->
+    <section class="overall-progress-box">
+      <div class="progress-header">
+        <span class="progress-title">Bootcamp Curriculum Progress</span>
+        <span class="progress-pct" id="barOverallPct">0%</span>
+      </div>
+      <div class="progress-bar-bg">
+        <div id="barFillEasy" class="progress-bar-fill fill-easy" style="width: 0%;"></div>
+        <div id="barFillMedium" class="progress-bar-fill fill-medium" style="width: 0%;"></div>
+        <div id="barFillHard" class="progress-bar-fill fill-hard" style="width: 0%;"></div>
+      </div>
+      <div class="diff-legend">
+        <div class="legend-item">
+          <span class="legend-dot" style="background: var(--easy-color);"></span>
+          <span>Easy (<span id="legEasy">0</span>)</span>
+        </div>
+        <div class="legend-item">
+          <span class="legend-dot" style="background: var(--medium-color);"></span>
+          <span>Medium (<span id="legMedium">0</span>)</span>
+        </div>
+        <div class="legend-item">
+          <span class="legend-dot" style="background: var(--hard-color);"></span>
+          <span>Hard (<span id="legHard">0</span>)</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Filter & Search Controls -->
+    <section class="controls-bar">
+      <div class="search-row">
+        <div class="search-input-wrap">
+          <i data-feather="search" class="search-icon"></i>
+          <input type="text" id="searchInput" class="search-input" placeholder="Search questions by title or keyword..." />
+        </div>
+        <select id="topicFilterSelect" class="topic-select">
+          <option value="all">All Modules (18 Topics)</option>
+        </select>
+        <button id="btnToggleAllAccordions" class="btn btn-secondary" style="font-size: 0.8rem; white-space: nowrap;">
+          Expand All
+        </button>
+      </div>
+
+      <div class="filter-chips">
+        <button class="chip active" data-filter="all">All</button>
+        <button class="chip" data-filter="incomplete">Incomplete</button>
+        <button class="chip" data-filter="completed">Completed</button>
+        <button class="chip" data-filter="starred">★ Starred / Revision</button>
+        <button class="chip chip-easy" data-filter="easy">Easy</button>
+        <button class="chip chip-medium" data-filter="medium">Medium</button>
+        <button class="chip chip-hard" data-filter="hard">Hard</button>
+      </div>
+    </section>
+
+    <!-- Topic Accordions Container -->
+    <section id="topicsContainer" class="topics-container">
+      <!-- Generated via app.js -->
+    </section>
+  </main>
+
+  <!-- Notes & Solution Modal -->
+  <div id="notesModal" class="modal-overlay">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3 class="modal-title" id="notesModalTitle">Problem Notes</h3>
+        <button class="modal-close" id="btnCloseNotesModal">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div>
+          <label class="input-label" for="inputSolutionUrl">My Solution / GitHub Link:</label>
+          <input type="url" id="inputSolutionUrl" class="search-input" placeholder="https://github.com/username/dsa/..." />
+        </div>
+        <div>
+          <label class="input-label" for="textareaNotes">Personal Notes & Key Takeaways:</label>
+          <textarea id="textareaNotes" class="modal-textarea" placeholder="Time complexity, edge cases, pattern used, approaches..."></textarea>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-secondary" id="btnCancelNote">Cancel</button>
+        <button class="btn btn-primary" id="btnSaveNote">Save Notes</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Backup / Restore Modal -->
+  <div id="exportModal" class="modal-overlay">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3 class="modal-title">Backup & Restore Progress</h3>
+        <button class="modal-close" id="btnCloseExportModal">&times;</button>
+      </div>
+      <div class="modal-body">
+        <p style="font-size: 0.85rem; color: var(--text-secondary);">
+          Export your solved problems and notes as a JSON file, or paste your saved data below to sync across browsers/devices.
+        </p>
+        <div style="display: flex; gap: 0.5rem;">
+          <button class="btn btn-primary" id="btnDownloadJson">Download Backup (.json)</button>
+          <button class="btn btn-secondary" id="btnCopyJson">Copy to Clipboard</button>
+        </div>
+        <div>
+          <label class="input-label" for="textareaJsonBackup">Raw Data (JSON):</label>
+          <textarea id="textareaJsonBackup" class="modal-textarea" style="font-family: monospace; font-size: 0.75rem;"></textarea>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-secondary" id="btnRestoreJson">Import / Restore Data</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="data/assignments.js"></script>
+  <script src="js/storage.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
