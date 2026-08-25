@@ -40,12 +40,33 @@ function fetchFile(filename) {
   });
 }
 
+const OFFICIAL_VIDEO_MAP = {
+  '01-flow-of-program': 'https://youtu.be/lhELGQAV4gg',
+  '02-first-java': 'https://youtu.be/TAtrPoaJ7gc',
+  '03-conditionals-loops': 'https://youtu.be/ldYLYRNaucM',
+  '04-functions': 'https://youtu.be/vvanI8NRlSI',
+  '05-arrays': 'https://youtu.be/n60Dn0UsbEk',
+  '06-searching': 'https://youtu.be/_HRA37X8N_Q',
+  '07-sorting': 'https://youtu.be/F5MZyqRp_IM',
+  '08-strings': 'https://youtu.be/zL1DPZ0Ovlo',
+  '09-patterns': 'https://www.youtube.com/watch?v=PrU2P83k33c',
+  '10-recursion': 'https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod',
+  '11-bitwise': 'https://youtu.be/fzip9Aml6og',
+  '12-math': 'https://youtu.be/lmSpZ0bjCyQ',
+  '13-complexities': 'https://www.youtube.com/watch?v=mV3wrLrapGY',
+  '14-oop': 'https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk',
+  '15-linkedlist': 'https://www.youtube.com/watch?v=58ypB6w640c',
+  '16-stack-queue': 'https://www.youtube.com/watch?v=F0b35tFUR_U',
+  '17-trees': 'https://www.youtube.com/watch?v=PhyL2X9F5nQ',
+  '18-heaps': 'https://www.youtube.com/watch?v=ywx-Onrdx4U'
+};
+
 function parseMarkdown(filename, content) {
   const idPrefix = filename.replace('.md', '');
   const rawTitle = filename.replace('.md', '').replace(/^\d+-/, '').split('-').map(s => s.charAt(0).toUpperCase() + s.slice(1)).join(' ');
   
   const lines = content.split('\n');
-  let videoLink = null;
+  let videoLink = OFFICIAL_VIDEO_MAP[idPrefix] || null;
   const problems = [];
   
   let currentDifficulty = 'Easy';

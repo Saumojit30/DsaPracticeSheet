@@ -1958,7 +1958,7 @@ window.ASSIGNMENTS_DATA = [
     "id": "09-patterns",
     "title": "Patterns",
     "filename": "09-patterns.md",
-    "videoLink": null,
+    "videoLink": "https://www.youtube.com/watch?v=PrU2P83k33c",
     "totalProblems": 35,
     "problems": [
       {
@@ -3212,7 +3212,7 @@ window.ASSIGNMENTS_DATA = [
     "id": "13-complexities",
     "title": "Complexities",
     "filename": "13-complexities.md",
-    "videoLink": null,
+    "videoLink": "https://www.youtube.com/watch?v=mV3wrLrapGY",
     "totalProblems": 0,
     "problems": []
   },
@@ -3220,7 +3220,7 @@ window.ASSIGNMENTS_DATA = [
     "id": "14-oop",
     "title": "Oop",
     "filename": "14-oop.md",
-    "videoLink": null,
+    "videoLink": "https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk",
     "totalProblems": 35,
     "problems": [
       {
@@ -3474,7 +3474,7 @@ window.ASSIGNMENTS_DATA = [
     "id": "15-linkedlist",
     "title": "Linkedlist",
     "filename": "15-linkedlist.md",
-    "videoLink": null,
+    "videoLink": "https://www.youtube.com/watch?v=58ypB6w640c",
     "totalProblems": 48,
     "problems": [
       {
@@ -3819,7 +3819,7 @@ window.ASSIGNMENTS_DATA = [
     "id": "16-stack-queue",
     "title": "Stack Queue",
     "filename": "16-stack-queue.md",
-    "videoLink": null,
+    "videoLink": "https://www.youtube.com/watch?v=F0b35tFUR_U",
     "totalProblems": 34,
     "problems": [
       {
@@ -4066,7 +4066,7 @@ window.ASSIGNMENTS_DATA = [
     "id": "17-trees",
     "title": "Trees",
     "filename": "17-trees.md",
-    "videoLink": null,
+    "videoLink": "https://www.youtube.com/watch?v=PhyL2X9F5nQ",
     "totalProblems": 54,
     "problems": [
       {
@@ -4453,7 +4453,7 @@ window.ASSIGNMENTS_DATA = [
     "id": "18-heaps",
     "title": "Heaps",
     "filename": "18-heaps.md",
-    "videoLink": null,
+    "videoLink": "https://www.youtube.com/watch?v=ywx-Onrdx4U",
     "totalProblems": 0,
     "problems": []
   }
