@@ -141,8 +141,10 @@ document.addEventListener('DOMContentLoaded', async () => {
       barFillHard.style.width = `${hardPct}%`;
     }
 
+    const watchedMap = data.watchedLectures || {};
+
     // Render Topic Accordions
-    renderTopicsList(completedMap, bookmarkMap, notesMap);
+    renderTopicsList(completedMap, bookmarkMap, notesMap, watchedMap);
 
     // Refresh feather icons
     if (window.feather) {
@@ -150,12 +152,14 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
   }
 
-  function renderTopicsList(completedMap, bookmarkMap, notesMap) {
+  function renderTopicsList(completedMap, bookmarkMap, notesMap, watchedMap) {
     topicsContainer.innerHTML = '';
 
     let matchedAny = false;
 
     assignments.forEach((category, idx) => {
+      const isWatched = !!watchedMap[category.id];
+
       // Check Topic filter
       if (selectedTopicId !== 'all' && category.id !== selectedTopicId) {
         return;
@@ -213,8 +217,9 @@ document.addEventListener('DOMContentLoaded', async () => {
         </div>
         <div class="topic-actions">
           ${category.videoLink ? `
-            <a href="${category.videoLink}" target="_blank" rel="noopener noreferrer" class="topic-video-btn" onclick="event.stopPropagation()">
-              <i data-feather="youtube" style="width: 14px; height: 14px;"></i> Lecture
+            <a href="${category.videoLink}" target="_blank" rel="noopener noreferrer" class="topic-video-btn ${isWatched ? 'watched' : ''}" onclick="event.stopPropagation()" title="Watch Official Lecture">
+              <i data-feather="${isWatched ? 'check-circle' : 'play-circle'}" style="width: 14px; height: 14px; fill: currentColor;"></i> 
+              <span>${isWatched ? 'Lecture Watched' : '▶ Watch Lecture'}</span>
             </a>` : ''}
           <div class="topic-progress-text">${catSolved}/${catTotal} (${catPct}%)</div>
           <div class="topic-progress-mini">
@@ -228,9 +233,48 @@ document.addEventListener('DOMContentLoaded', async () => {
         topicCard.classList.toggle('open');
       });
 
-      // Body (Problem rows)
+      // Body (Problem rows + Featured Lecture Banner)
       const body = document.createElement('div');
       body.className = 'topic-body';
+
+      // Always show prominent lecture banner at top of module if video exists
+      if (category.videoLink) {
+        const banner = document.createElement('div');
+        banner.className = `module-lecture-banner ${isWatched ? 'watched' : ''}`;
+        banner.innerHTML = `
+          <div class="lecture-left">
+            <a href="${category.videoLink}" target="_blank" rel="noopener noreferrer" class="lecture-play-circle" title="Play Video Lecture on YouTube">
+              <i data-feather="play" style="width: 18px; height: 18px; fill: currentColor; margin-left: 2px;"></i>
+            </a>
+            <div class="lecture-info">
+              <div class="lecture-tag">
+                <i data-feather="youtube" style="width: 13px; height: 13px;"></i> Official Bootcamp Video Lecture
+              </div>
+              <a href="${category.videoLink}" target="_blank" rel="noopener noreferrer" class="lecture-title-text">
+                ${category.title} Theory & Walkthrough
+              </a>
+            </div>
+          </div>
+          <div class="lecture-right">
+            <a href="${category.videoLink}" target="_blank" rel="noopener noreferrer" class="btn-play-lecture" title="Open and watch lecture on YouTube">
+              <i data-feather="play" style="width: 13px; height: 13px; fill: #fff;"></i> Play Lecture
+            </a>
+            <button class="lecture-watched-btn ${isWatched ? 'active' : ''}" data-cat="${category.id}" title="Toggle watched status">
+              <i data-feather="${isWatched ? 'check-circle' : 'circle'}" style="width: 13px; height: 13px;"></i>
+              <span>${isWatched ? 'Watched' : 'Mark Watched'}</span>
+            </button>
+          </div>
+        `;
+
+        const watchBtn = banner.querySelector('.lecture-watched-btn');
+        watchBtn.addEventListener('click', async (e) => {
+          e.stopPropagation();
+          await storage.toggleWatchedLecture(category.id);
+          await renderApp();
+        });
+
+        body.appendChild(banner);
+      }
 
       if (filteredProblems.length === 0) {
         body.innerHTML = `

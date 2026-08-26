@@ -470,22 +470,175 @@ body {
 }
 
 .topic-video-btn {
-  color: var(--yt-color);
-  display: flex;
+  color: #fff;
+  display: inline-flex;
   align-items: center;
-  gap: 0.3rem;
+  gap: 0.45rem;
   font-size: 0.8rem;
+  font-weight: 600;
   text-decoration: none;
-  padding: 0.25rem 0.5rem;
-  border-radius: var(--radius-sm);
-  background: rgba(239, 68, 68, 0.1);
-  border: 1px solid rgba(239, 68, 68, 0.2);
+  padding: 0.35rem 0.75rem;
+  border-radius: var(--radius-full);
+  background: linear-gradient(135deg, #ef4444, #dc2626);
+  border: 1px solid rgba(239, 68, 68, 0.4);
+  box-shadow: 0 2px 8px rgba(239, 68, 68, 0.3);
   transition: all var(--transition-fast);
 }
 
 .topic-video-btn:hover {
-  background: var(--yt-color);
+  background: linear-gradient(135deg, #dc2626, #b91c1c);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(239, 68, 68, 0.45);
   color: #fff;
+}
+
+.topic-video-btn.watched {
+  background: rgba(16, 185, 129, 0.15);
+  color: var(--easy-color);
+  border-color: rgba(16, 185, 129, 0.3);
+  box-shadow: none;
+}
+
+/* Featured Lecture Banner inside Module */
+.module-lecture-banner {
+  background: linear-gradient(135deg, rgba(239, 68, 68, 0.08) 0%, rgba(220, 38, 38, 0.03) 100%);
+  border: 1px solid rgba(239, 68, 68, 0.25);
+  border-radius: var(--radius-md);
+  margin: 0.85rem 1.25rem 1rem 1.25rem;
+  padding: 0.9rem 1.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  transition: all var(--transition-fast);
+}
+
+.module-lecture-banner:hover {
+  border-color: rgba(239, 68, 68, 0.45);
+  background: linear-gradient(135deg, rgba(239, 68, 68, 0.12) 0%, rgba(220, 38, 38, 0.06) 100%);
+}
+
+.module-lecture-banner.watched {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.08) 0%, rgba(16, 185, 129, 0.03) 100%);
+  border-color: rgba(16, 185, 129, 0.25);
+}
+
+.lecture-left {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  flex: 1;
+}
+
+.lecture-play-circle {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #ef4444, #b91c1c);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  flex-shrink: 0;
+  box-shadow: 0 4px 12px rgba(239, 68, 68, 0.35);
+  transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.module-lecture-banner.watched .lecture-play-circle {
+  background: linear-gradient(135deg, #10b981, #059669);
+  box-shadow: 0 4px 12px rgba(16, 185, 129, 0.35);
+}
+
+.lecture-play-circle:hover {
+  transform: scale(1.08);
+  box-shadow: 0 6px 16px rgba(239, 68, 68, 0.5);
+}
+
+.lecture-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.lecture-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #ef4444;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.module-lecture-banner.watched .lecture-tag {
+  color: var(--easy-color);
+}
+
+.lecture-title-text {
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  text-decoration: none;
+}
+
+.lecture-title-text:hover {
+  color: #ef4444;
+}
+
+.lecture-right {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-shrink: 0;
+}
+
+.btn-play-lecture {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.4rem 0.85rem;
+  border-radius: var(--radius-md);
+  background: #ef4444;
+  color: #fff;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-decoration: none;
+  box-shadow: 0 2px 6px rgba(239, 68, 68, 0.3);
+  transition: all var(--transition-fast);
+}
+
+.btn-play-lecture:hover {
+  background: #dc2626;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 10px rgba(239, 68, 68, 0.4);
+}
+
+.lecture-watched-btn {
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border-color);
+  color: var(--text-secondary);
+  font-size: 0.78rem;
+  padding: 0.4rem 0.75rem;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  transition: all var(--transition-fast);
+}
+
+.lecture-watched-btn:hover {
+  border-color: var(--easy-color);
+  color: var(--easy-color);
+}
+
+.lecture-watched-btn.active {
+  background: rgba(16, 185, 129, 0.15);
+  border-color: var(--easy-color);
+  color: var(--easy-color);
 }
 
 .topic-chevron {

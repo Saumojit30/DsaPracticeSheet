@@ -11,6 +11,7 @@ class ProgressStorage {
       completed: {},    // { [problemId]: { completed: true, timestamp: 1234567890 } }
       bookmarks: {},    // { [problemId]: true }
       notes: {},        // { [problemId]: { text: "", solutionUrl: "", updatedAt: 1234567890 } }
+      watchedLectures: {}, // { [catId]: true }
       theme: 'dark',
       streak: {
         lastSolvedDate: null,
@@ -116,6 +117,24 @@ class ProgressStorage {
       streak.currentStreak = 1;
     }
     streak.lastSolvedDate = today;
+  }
+
+  async isLectureWatched(catId) {
+    await this.init();
+    return !!(this._cache.watchedLectures && this._cache.watchedLectures[catId]);
+  }
+
+  async toggleWatchedLecture(catId) {
+    await this.init();
+    if (!this._cache.watchedLectures) this._cache.watchedLectures = {};
+    const newState = !this._cache.watchedLectures[catId];
+    if (newState) {
+      this._cache.watchedLectures[catId] = true;
+    } else {
+      delete this._cache.watchedLectures[catId];
+    }
+    await this._save();
+    return newState;
   }
 
   async isBookmarked(problemId) {
