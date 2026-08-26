@@ -212,7 +212,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       header.className = 'topic-header';
       header.innerHTML = `
         <div class="topic-title-wrap">
-          <span class="topic-badge">#${String(idx + 1).padStart(2, '0')}</span>
+          <span class="topic-badge">[#${String(idx + 1).padStart(2, '0')}]</span>
           <span class="topic-name">${category.title}</span>
         </div>
         <div class="topic-actions">
@@ -289,6 +289,11 @@ document.addEventListener('DOMContentLoaded', async () => {
           const hasNote = !!notesMap[prob.id]?.text || !!notesMap[prob.id]?.solutionUrl;
           const diffClass = (prob.difficulty || 'easy').toLowerCase();
 
+          let diffLabel = prob.difficulty || 'Easy';
+          if (diffClass === 'easy') diffLabel = 'O(1) Easy';
+          else if (diffClass === 'medium') diffLabel = 'O(N) Med';
+          else if (diffClass === 'hard') diffLabel = 'O(2^N) Hard';
+
           const row = document.createElement('div');
           row.className = `problem-row ${isDone ? 'completed' : ''}`;
           row.id = `row-${prob.id}`;
@@ -310,7 +315,7 @@ document.addEventListener('DOMContentLoaded', async () => {
               `}
             </div>
             <div class="problem-right">
-              <span class="badge-diff ${diffClass}">${prob.difficulty || 'Easy'}</span>
+              <span class="badge-diff ${diffClass}">${diffLabel}</span>
               <span class="badge-platform">${prob.platform}</span>
               <button class="btn-star ${isStarred ? 'starred' : ''}" data-id="${prob.id}" title="${isStarred ? 'Remove Star' : 'Star for Revision'}">
                 <i data-feather="star" style="width: 16px; height: 16px; ${isStarred ? 'fill: var(--star-color);' : ''}"></i>
