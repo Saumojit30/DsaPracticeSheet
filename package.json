@@ -1,7 +1,8 @@
 {
-  "name": "dsa-bootcamp-tracker",
+  "name": "dsa-practice-sheet",
   "version": "1.0.0",
   "description": "Kunal Kushwaha DSA Bootcamp Assignment Tracker (Web App & Chrome Extension)",
+  "homepage": "https://saumojit30.github.io/DsaPracticeSheet/",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
